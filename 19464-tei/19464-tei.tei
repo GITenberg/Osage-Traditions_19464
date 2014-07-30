@@ -1,0 +1,2008 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+
+<!--
+The Project Gutenberg EBook of Osage Traditions by J. Owen Dorsey
+
+
+This eBook is for the use of anyone anywhere at no cost and with almost no
+restrictions whatsoever. You may copy it, give it away or re-use it under
+the terms of the Project Gutenberg License included with this eBook or
+online at http://www.gutenberg.org/license
+
+
+Title: Osage Traditions
+
+Author: J. Owen Dorsey
+
+Release Date: October 4, 2006 [Ebook #19464]
+
+Language: English
+
+Character set encoding: UTF-8
+-->
+
+<!DOCTYPE TEI.2 SYSTEM "http://www.gutenberg.org/tei/marcello/0.4/dtd/pgtei.dtd">
+
+<TEI.2 lang="en">
+<teiHeader>
+  <fileDesc>
+    <titleStmt>
+      <title>Osage Traditions</title>
+      <author>J. Owen Dorsey</author>
+    </titleStmt>
+    <editionStmt>
+      <edition n="1">Edition 1</edition>
+    </editionStmt>
+    <publicationStmt>
+      <publisher>Project Gutenberg</publisher>
+      <date value="2006-10-04">October 4, 2006</date>
+      <idno type="etext-no">19464</idno>
+      <availability>
+        <p>This eBook is for the use of anyone anywhere at no cost and
+        with almost no restrictions whatsoever. You may copy it, give it
+        away or re-use it under the terms of the Project Gutenberg
+        License online at www.gutenberg.org/license</p>
+      </availability>
+    </publicationStmt>
+    <sourceDesc>
+      <bibl>
+      </bibl>
+    </sourceDesc>
+  </fileDesc>
+  <encodingDesc>
+    <classDecl>
+      <taxonomy id="lc">
+        <bibl>
+          <title>Library of Congress Classification</title>
+        </bibl>
+      </taxonomy>
+    </classDecl>
+  </encodingDesc>
+  <profileDesc>
+    <langUsage>
+      <language id="en"></language>
+    </langUsage>
+    <textClass>
+    </textClass>
+  </profileDesc>
+  <revisionDesc>
+    <change>
+      <date value="2006-10-04">October 4, 2006</date>
+      <respStmt>
+        <name>PM for Bureau of American Ethnology,<lb /></name>
+        <name>Joshua Hutchinson and<lb /></name>
+        <name>The Online Distributed Proofreading Team<lb /></name>
+        <name>(This file was produced from images generously made available by the Bibliothèque nationale de France (BnF/Gallica) at http://gallica.bnf.fr)</name>
+      </respStmt>
+      <item>Posted to Project Gutenberg</item>
+    </change>
+  </revisionDesc>
+</teiHeader>
+
+<pgExtensions>
+  <pgStyleSheet>
+    figure           { text-align: center; page-float: 'htbp' }
+    .floatleft       { float: left;  margin-right: 2em }
+    .floatright      { float: right; margin-left:  2em }
+    .w90             { }
+    .w50             { }
+    .w20             { }
+    .w05             { }
+    @media pdf {
+      .w90             { width: 90% }
+      .w50             { width: 50% }
+      .w20             { width: 20% }
+      .w05             { width: 5% }
+    }
+  </pgStyleSheet>
+</pgExtensions>
+
+<text lang="en">
+  <front>
+    <div>
+      <divGen type="pgheader" />
+    </div>
+
+    <div>
+      <divGen type="encodingDesc" />
+    </div>
+
+    <div rend="page-break-before: right">
+      <divGen type="titlepage" />
+    </div>
+
+<div>
+<p>SMITHSONIAN INSTITUTION&mdash;BUREAU OF ETHNOLOGY.</p>
+</div>
+
+    <div rend="page-break-before: right">
+      <head>Contents</head>
+      <divGen type="toc" />
+    </div>
+
+    <div>
+      <head>Illustrations</head>
+      <divGen type="fig" />
+    </div>
+</front>
+
+<body>
+
+<div rend="page-break-before: right">
+<pb n="377" /><anchor id="Pg377" />
+
+<head>OSAGE TRADITIONS.</head>
+
+<p>BY REV. J. OWEN DORSEY.</p>
+</div>
+
+<div>
+<index index="toc" />
+<index index="pdf" />
+<head>INTRODUCTION.</head>
+
+<p>When the author visited the Osage, in the Indian Territory, in
+January, 1883, he learned of the existence of a secret society of seven
+degrees, in which, it was alleged, the traditions of the people have been
+preserved to the present time. Owing to the shortness of his visit,
+one month and eleven days, he was unable to gain more than fragmentary
+accounts of the society, including parts of two traditions,
+from several Osage who had been initiated.</p>
+
+<p>The version of the first tradition was dictated to the author by
+Ha<hi rend="font-weight: bold">d</hi>a-ɔüʇse (Red Corn), a halfbreed Osage of the Tsíɔu wactáʞe
+gens. He obtained it from Sa<hi rend="font-weight: bold">d</hi>eki¢e. Ha<hi rend="font-weight: bold">d</hi>a-ɔüʇse was adopted in
+childhood by a white man named Matthews, who sent him to a Jesuit
+college in Missouri(?) to be educated for the priesthood. But the
+boy left the institution after he had been taught to read and write, as
+he did not wish to become a priest. He took the name of William P.
+Matthews, but among his white associates he is known as Bill Nix.
+He has tried several occupations and is now an Indian doctor. The
+author was inclined at first to underrate Mr. Matthews's accomplishments
+and stock of information, but subsequently changed his
+opinion of him, as he obtained much that agreed with what had been
+furnished by members of other tribes in former years. Besides, the
+author obtained partial accounts of similar traditions from other
+Osage, who used the same chant which Ha<hi rend="font-weight: bold">d</hi>a-ɔüʇse had sung. None
+of the younger Osage men knew about these matters and the author
+was urged not to speak to them on this subject. He observed that
+several of the elder men, members of the secret order in which these
+traditions are preserved, had parts of the accompanying symbolic
+chart (Fig. 389) tattooed on their throats and chests. This chart is
+a fac simile of one that was drawn for the author by Ha<hi rend="font-weight: bold">d</hi>a-ɔüʇse. At
+the top we see a tree near a river. The tree is a cedar, called the tree
+of life. It has six roots, three on each side. Nothing is said about
+this tree till the speaker nearly reaches the end of the tradition. Then<pb n="378" /><anchor id="Pg378" />
+follows the "ceremony of the cedar." The tree is described very minutely.
+Then follows a similar account of the river and its branches.</p>
+
+<figure url="images/image01.png" rend="w50">
+<index index="fig" />
+<head>FIG. 389. Symbolic chart of the Osage.</head>
+<figDesc>Illustration: FIG. 389. Symbolic chart of the Osage.</figDesc>
+</figure>
+
+<p>Just under the river, at the left, we see a large star, the Red or
+Morning Star. Next are six stars, Ta¢a<hi rend="font-weight: bold">d</hi>¢i<hi rend="vertical-align: super">n</hi>. The Omaha know a
+similar group, which they call "Mi<hi rend="vertical-align: super">n</hi>xa si ʇañga," or "Large foot of
+a goose." Next is the Evening Star; and last comes the small star,
+"Mikak'ĕ-ɔiñʞa." Beneath these four we see the seven stars, or
+Pleiades (Mikak'ĕ u<hi rend="font-weight: bold">d</hi>átse pé¢ŭ<hi rend="vertical-align: super">n</hi><hi rend="font-weight: bold">d</hi>a, the Seven Gentes of Stars), between
+the Moon (on the left) and the Sun (on the right). Beneath these
+are the peace pipe (on the left) and the hatchet (on the right). A
+bird is seen hovering over the four upper worlds. These worlds are
+represented by four parallel horizontal lines, each of which, except
+the lowest one, is supported by two pillars. The lowest world rests
+on a red oak tree.</p>
+
+<p>The journey of the people began at a point below the lowest upper
+world, on the left side of the chart. Then the people had neither human
+bodies nor souls, though they existed in some unknown manner.<pb n="379" /><anchor id="Pg379" />
+They ascended from the lowest upper world, on the left, to the highest.
+There they obtained human souls in the bodies of birds, according
+to Sa<hi rend="font-weight: bold">d</hi>eki¢e. ʞahiʞe-waʇayiñʞa said that there they met a male
+red bird, to whom they appealed for aid. (See p. 383, line 18.) This
+was distinct from the female Red Bird, who gave them human
+bodies. They descended to the first world, and from that they traveled
+until they alighted on the red oak tree. (See p. 383, line 30.)
+The ground was covered with grass and other kinds of vegetation.
+Then the paths of the people separated: some marched on the left,
+being the peace gentes that could not take life; they subsisted on
+roots &amp;c.; while those on the right killed animals. By and by the
+gentes exchanged commodities.</p>
+
+<p>The small figures on the left, in going from the tree (on the right
+when facing the tree), show the heavenly bodies or beings to whom
+the Black Bear went for help, and those on the right, in going from
+the tree (on the left when facing the top of the chart), show similar
+bodies or beings to whom the Waɔaɔe or war gentes applied for assistance.
+These are unknown to the members of the Tsíɔu gentes.
+After the female red bird gave bodies to the Tsíɔu people, the Black
+Bear found seven skins, which were used for tents. Subsequently
+the people discovered four kinds of rocks, which were the I<hi rend="vertical-align: super">n</hi>’qĕ sá<hi rend="font-weight: bold">d</hi>e,
+or black rock; I<hi rend="vertical-align: super">n</hi>’qĕ tṵhṵ,<note place="foot"><p>The sound of this inverted ṵ, between o and u, as well as the sounds of other
+letters used in this article, except that of the inverted ɥ (which is a sound approximating
+ch in the German word ich), is to be found on page 206, Third Annual Report
+of the Bureau of Ethnology.</p></note> or blue (green?) rock; I<hi rend="vertical-align: super">n</hi>’qĕ ɔüʇse, or red
+rock; and I<hi rend="vertical-align: super">n</hi>’qĕ skă, or white rock. Therefore, when a child is named,
+four stones are heated for the sweat bath. After finding the rocks,
+according to ʞahiʞe-waʇayiñʞa, four buffalo bulls approached the
+people, as one of the men was returning to the company. When the
+first bull arose after rolling on the ground, an ear of red corn and a
+red pumpkin fell from his left hind leg. The leader of the Tsíɔu
+wactáʞe noticed them, and asked his younger brother to pick them up
+and taste them. The leader of the Bald Eagle subgens did so. Then
+the elder brother said: "These will be good for the children to eat.
+Their limbs will stretch and increase in strength." When the second
+bull arose after rolling, an ear of spotted corn and a spotted pumpkin
+dropped from his left hind leg. These, too, were tasted and declared
+good for the children. When the third bull arose after rolling, an
+ear of dark corn and a dark (black?) pumpkin dropped from his left
+hind leg. From the left hind leg of the fourth buffalo dropped an
+ear of white corn and a white pumpkin. Therefore, when a child is
+named in the Tsíɔu gens (alone?) the head man of that gens (ʞahiʞe-waʇayiñʞa
+himself, according to his statement) takes a grain of each
+kind of corn and a slice of each variety of pumpkin, which he puts into
+the mouth of the infant. Ha<hi rend="font-weight: bold">d</hi>a-ɔüʇse knew that the four kinds of<pb n="380" /><anchor id="Pg380" />
+rocks were found, "but he could not say in what part of the tradition
+the account belonged. He said that subsequently the Waɔaɔe and
+Tsíɔu gentes came to the village of the Hañ'ʞa-utá¢anʇse, a very war-like
+people, who then inhabited earth lodges. They subsisted on
+animals, and bodies of all kinds lay around their village, making the
+air very offensive. The Tsíɔu succeeded at last in making peace
+with the Hañ'ʞa-utá¢anʇse. After this followed the part of the account
+given to the author by ʞahiʞe-waʇayiñʞa:</p>
+
+<p>"After the council between the Tsíɔu, Waɔaɔe, and Hañ'ʞa-utá¢anʇse,
+two old men were sent off to seek a country in which all might
+dwell. One of these was a Tsíɔu wactáʞe and the other a Pa<hi rend="vertical-align: super">n</hi>ɥka-wactáʞe.
+Each man received a pipe from the council and was told
+to go for seven days without food or drink. He carried a staff to aid
+him in walking. Three times a day he wept, in the morning, at noon,
+and near sunset. They returned to the people at the end of the seven
+days, being very thin. The report of the Tsíɔu man was accepted,
+so the Tsíɔu gens is superior to the Panɥka-wactáʞe or Watsetsi. A
+Waɔaɔe man acted as crier and told all about the new home of the
+nation. All the old men decorated their faces with clay. The next
+morning the two old men who had gone in search of the new home
+led their respective sides of the nation, who marched in parallel roads.
+When they reached the land the policemen ran around in a circle,
+just as they do previous to starting to war. The Waɔaɔe man ran
+around from right to left and the ¢uqe man from left to right. At
+different stations the two old leaders addressed the people. Finally
+the men took sharp pointed sticks, which they stuck into the ground,
+each one saying 'I wish my lodge to be here.' The next day the
+Cuka or messenger of the Tsíɔu old man went to summon the Elk
+crier. The latter was ordered to make a proclamation to all the
+people, as follows: 'They say that you must remove to-day! Wakanʇa
+has made good weather! They say that you must remove today
+to a good land!' In those days the Osage used dogs instead of
+horses. When the old Tsíɔu man made his speech, he went into details
+about every part of a lodge, the fireplace, building materials,
+implements, &amp;c. Four sticks were placed in the fireplace, the first
+pointing to the west. When this was laid down, the Tsíɔu leader
+spoke about the West Wind, and also about a young buffalo bull
+(Tseʇu’-ɔiñʞa), repeating the name Wani’e-skă. When the stick
+at the north was laid down, he spoke of Tsehe quʇse (gray buffalo
+horns) or a buffalo bull. When the stick at the east was laid down
+he spoke of Tseʇuʞa tañʞa (a large buffalo bull). On laying down
+the fourth stick at the south, he spoke of Tse mi<hi rend="vertical-align: super">n</hi>ʞa (a buffalo cow).
+At the same time a similar ceremony was performed by the aged
+Pa<hi rend="vertical-align: super">n</hi>ɥka man on the right side of the tribe.<note place="foot"><p>It is probable, however, that the Pa<hi rend="vertical-align: super">n</hi>ɥka (Ponka) man began with the stick at
+the east, as he must use the right hand and foot first.</p></note></p>
+
+<pb n="381" /><anchor id="Pg381" />
+
+<p>"In placing the stick to the east, Taʇse ʞaqpa tsĕ, The East Wind,
+and Tahe ca<hi rend="font-weight: bold">d</hi>e, Dark-Horned Deer, were mentioned; to the north,
+Taʇse <hi rend="font-weight: bold">P</hi>asa<hi rend="vertical-align: super">n</hi> tsĕ, The North Wind, and The Deer with gray horns were
+mentioned; to the west, Taʇse Ma<hi rend="vertical-align: super">n</hi>'ha tsĕ, The West Wind, and an
+animal which makes a lodge and is with the Tahe pasiʞe were mentioned;
+to the south, T]aʇse Ak'a tsĕ, The South Wind, and Ta wañka he
+aʞ¢aɔĭ skutañʞa were mentioned."<note place="foot"><p>Meaning uncertain; it may refer to the female or doe.</p></note></p>
+
+<p>ʞahiʞe-waʇayiñʞa gave no further information, as a reported case
+of smallpox near the agency led the author to start for the East February
+21, 1883. Since then he has learned of the existence of similar
+societies among the Kansa and the Ponka, and he suspects that there
+were formerly such societies among the Omaha.<note place="foot"><p>See "Omaha Sociology," §§ 14-16, 19, 28, 33, 34, 36, 56, 143, 248-258, and passim,
+in Third Annual Report of the Director of the Bureau of Ethnology.</p></note></p>
+</div>
+
+<div>
+<index index="toc" />
+<index index="pdf" />
+<head>TRADITIONS OF THE ELDERS.</head>
+
+<p>In presenting the accompanying traditions, the following abbreviations
+are used in the interlinear translations:</p>
+
+<p>an., <hi rend="font-style: italic">animate</hi>.<lb />
+cv., <hi rend="font-style: italic">curvilinear</hi>.<lb />
+du., <hi rend="font-style: italic">dual</hi>.<lb />
+in., <hi rend="font-style: italic">inanimate</hi>.<lb />
+mv., <hi rend="font-style: italic">moving</hi>.<lb />
+ob., <hi rend="font-style: italic">object</hi>.<lb />
+pl., <hi rend="font-style: italic">plural</hi>.<lb />
+recl., <hi rend="font-style: italic">reclining</hi>.<lb />
+sing., <hi rend="font-style: italic">singular</hi>.<lb />
+st., <hi rend="font-style: italic">sitting</hi>.<lb />
+std., <hi rend="font-style: italic">standing</hi>.<lb />
+sub., <hi rend="font-style: italic">subject</hi>.</p>
+
+<div>
+<index index="toc" />
+<index index="pdf" level1="UNUn'UcAkE. TSIOU WACTAkE ITAPE." />
+<head>UNŬ<hi rend="vertical-align: super">n</hi>'U¢ÁʞE. TSÍOU WACTÁʞE ITÁ<hi rend="font-weight: bold">P</hi>E.</head>
+
+<p>(Tradition of the Tsíɔu wactáʞe gens.)<note place="foot"><p>The literal rendering of the title is "Growth told. Tsíɔu Peacemaker theirs."
+This may be translated freely by "Revelations of the elders of the Red Eagle gens."</p></note></p>
+
+<p>1 | Ɔiñʞa | weháʞi¢e<note place="foot"><p>Ɔiñ'ʞa weháʞi¢e, "The first end of the children" or "The beginning of the
+race." This reckoning was backward. The Ponka have a similar usage: uhañge, <hi rend="font-style: italic">an
+end</hi>; uhañge pahañga tĕ, <hi rend="font-style: italic">the first end</hi> or <hi rend="font-style: italic">beginning</hi>. Ádi<hi rend="vertical-align: super">n</hi>taú, formed by crasis from
+a<hi rend="font-weight: bold">d</hi>e and i<hi rend="vertical-align: super">n</hi>tau, may refer to the words of the old men who have handed down these
+traditions. Tsiká is unintelligible to the younger Osage of the present day. One
+man told the author that he thought it meant, "O grandfather," being addressed to
+the principal Wakanʇa. He said that it was substituted for another name of that
+being.</p></note>: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!<note place="foot"><p>The chorus or refrain at the end of each line is omitted in the free translation,
+as it would make confusion. If retained, the first four lines would read thus:</p>
+
+<p>The first of the race: he really said, O grandfather!</p>
+
+<p>He was saying, "Ho, younger brother! the children have no bodies": he really
+said, O grandfather!</p>
+
+<p>"We shall seek bodies for our children": he really said, O grandfather!</p>
+
+<p>"Ho, younger brother! you shall attend to it": he really said, O grandfather!</p></note></p>
+
+<p> | Child | last | he really said | O grandfather!</p>
+
+<p> | Há, | wisŭñ'ʞa, | ɔiñ'ʞa | ɔuíʞa | wa¢iñ'ʞe, |éʞi añká<note place="foot"><p>Éʞi añká refers to the preceding words, which were those of one of the mythic
+speakers. He was an ancestor of the Tsíɔu gens. Here he addressed his younger
+brother. At this time the brothers were destitute of human souls and bodies, though
+they possessed conscious existence and could talk, as well as move about from place
+to place.</p></note>: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p> | Ho | younger brother | child | body | they have none | he saw saying that | he really said | O grandfater!</p>
+
+<pb n="382" /><anchor id="Pg382" />
+
+<p> 3 | Ɔiñ’ʞa | ɔuíʞa | añʞúʞiʇse tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Child | body | we shall seek ours | he really said | O grandfather!</p>
+
+<p>   | Há, | wisŭñ’ʞa, | úʇa<hi rend="vertical-align: super">n</hi><hi rend="font-weight: bold">d</hi>e¢a¢é tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Ho | younger brother | you shall attend to it | he really said | O grandfather!</p>
+
+<p>   | Máxe úsakí<hi rend="font-weight: bold">d</hi>a<note place="foot"><p>See the lowest horizontal line on the left side of the chart.</p></note> | wi<hi rend="vertical-align: super">n</hi>’qtsi | ĕ’ʇsi | hi’ naɔi<hi rend="vertical-align: super">n</hi>’: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Parallel upper worlds | one | to it | came and stood | he really said | O grandfather!</p>
+
+<p> 6 | Ĕʇsíqtsi | níkacíʞa-<hi rend="font-weight: bold">d</hi>áɔĭ<note place="foot"><p>Nikacíʞa-dáɔĭ. Another reading is níkacíʞaqtsi-dáɔĭ: <hi rend="font-style: italic">they were not complete
+human beings</hi>.</p></note>: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Just there | they were not human beings | he really said | O grandfather!</p>
+
+<p>   | Há | wisŭñ’ʞa! | ɔiñ’ʞa | ɔuíʞa | wa¢iñ'ʞe, | éʞi añká: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Ho | younger brother | child | body | they have none | he was saying that | he really said | O grandfather!</p>
+
+<p>   | Ɔiñ’ʞa | ɔuíʞa | añʞúʞiʇsé tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Child | body | we shall seeks ours | he really said | O grandfather!</p>
+
+<p> 9 | Máxe úsakí<hi rend="font-weight: bold">d</hi>a | ¢ŭ<hi rend="vertical-align: super">n</hi>’<hi rend="font-weight: bold">d</hi>a | ĕ'ʇsi | hi’ naɔi<hi rend="vertical-align: super">n</hi>’: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Parallel upper worlds | two | to it | came and stood | he really said | O grandfather!</p>
+
+<p>   | Ĕʇsíqtsi | níkacíʞa-<hi rend="font-weight: bold">d</hi>áɔĭ: | á<hi rend="font-weight: bold">d</hi>intaú, | Tsiká!</p>
+
+<p>   | Just there | they were not human beings | he really said | O grandfather!</p>
+
+<p>   | Há, | wisŭñ’ʞa! | ɔiñ’ʞa | ɔuíʞa | wa¢iñ’ʞe, | éʞi añká: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, Tsiká!</p>
+
+<p>   | Ho | younger brother | child | body | they have none | he was saying that | he really said | O grandfather!</p>
+
+<p>12 | Ɔiñ’ʞa | ɔuíʞa | añʞúʞiʇsé tatsé: á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, Tsiká!</p>
+
+<p>   | Child | body | we shall seek ours | he really said | O grandfather!</p>
+
+<p>   | Máxe úsakí<hi rend="font-weight: bold">d</hi>a | ¢a<hi rend="font-weight: bold">d</hi>¢i<hi rend="vertical-align: super">n</hi> | ĕ’ʇsi | hi’ naɔi<hi rend="vertical-align: super">n</hi>’: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Parallel upper worlds | three | there | came and stood | he really said | O grandfather!</p>
+
+<p>   | Ĕʇsíqtsi | níkacíʞa-<hi rend="font-weight: bold">d</hi>áɔĭ: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Just there | they were not human beings | he really said | O grandfather!</p>
+
+<p>15 | Há | wisŭñ’ʞa! | ɔiñ’ʞa | ɔuíʞa | wa¢iñ’ʞe, | éʞi añká: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Ho | younger brother | child | body | they have none | he was saying that | he really said | O grandfather!</p>
+
+<p>   | Ɔiñ’ʞa | ɔuíʞa | añʞúʞiʇsé tatsé: | ádi<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Child | body | we shall seek ours | he really said | O grandfather!</p>
+
+<p>   | Máxe úsakí<hi rend="font-weight: bold">d</hi>a | ʇú<hi rend="font-weight: bold">d</hi>a |  ĕ’ʇsi | hi’ naɔi<hi rend="vertical-align: super">n</hi>’: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!<note place="foot"><p>A different reading of lines 17 to 25 is as follows:</p>
+
+<p>Máxe úsakí<hi rend="font-weight: bold">d</hi>a | ʇú<hi rend="font-weight: bold">d</hi>a | níkacíʞa¢á<hi rend="font-weight: bold">d</hi>e: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>Parallel upper worlds | four | they were made human beings | he really said | O grandfather!</p>
+
+<p>Cŭ<hi rend="vertical-align: super">n</hi>’ŭ<hi rend="vertical-align: super">n</hi>ckíta | é | e¢á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>Awhile | he said | indeed, he really said | O grandfather!</p>
+
+<p>Ɔiñ’ʞa | ɔuíʞa | wa¢iñ’ʞa<hi rend="font-weight: bold">d</hi>e, | é añká: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>Child | body | they have none | he was saying | he really said | O grandfather!</p>
+
+<p>Há, | wisŭñ’ʞa! | é | e¢á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>Ho | younger brother! | he said | indeed, he really said | O grandfather!</p>
+
+<p>Úʇa<hi rend="vertical-align: super">n</hi><hi rend="font-weight: bold">d</hi>e | añʞáxe tatsé: á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, Tsiká!</p>
+
+<p>Attention | we shall make | he really said | O grandfather!</p>
+
+<p>Máxe úsakí<hi rend="font-weight: bold">d</hi>a | ¢a<hi rend="font-weight: bold">d</hi>¢i<hi rend="vertical-align: super">n</hi> | ĕ’ʇsi | a<hi rend="vertical-align: super">n</hi>tsí naɔi<hi rend="vertical-align: super">n</hi>’: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>Parallel upper worlds | three | there | they (?) came and stood | he really said | O grandfather!</p>
+
+<p>   | Ɔiñ’ʞa | ɔuíʞa-<hi rend="font-weight: bold">d</hi>ácĭ | é | e¢á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Child | had no bodies | he said | indeed, he really said | O grandfather!</p>
+
+<p>   | Cŭ<hi rend="vertical-align: super">n</hi>’ŭ<hi rend="vertical-align: super">n</hi>ckíta | úʇa<hi rend="vertical-align: super">n</hi><hi rend="font-weight: bold">d</hi>e | añʞáxe tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Awhile longer | attention | we shall make | he really said | O grandfather!</p>
+
+<p>   | Máxe úsakí<hi rend="font-weight: bold">d</hi>a | ¢ŭ<hi rend="vertical-align: super">n</hi>’<hi rend="font-weight: bold">d</hi>a | ĕ’ʇsi | a<hi rend="vertical-align: super">n</hi>tsí naɔi<hi rend="vertical-align: super">n</hi>’: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Parallel upper worlds | two | there | they (?) came this way and stood | he really said | O grandfather!</p>
+
+<p rend="text-align: center"><hi rend="font-style: italic">Translation.</hi></p>
+
+<p>At the fourth upper world they were made human beings.</p>
+
+<p>"Still," said he (the elder brother?), indeed he really said,</p>
+
+<p>"The children have no bodies.</p>
+
+<p>"Ho, younger brother!</p>
+
+<p>"We must give this matter our attention."</p>
+
+<p>They came to the third upper world.</p>
+
+<p>"The children have no bodies."</p>
+
+<p>"Still must we give this our attention," said one.</p>
+
+<p>They came to the second upper world. (From this line on there is no variation
+from what has been given above.)</p></note></p>
+
+<p>   | Parallel upper worlds | four | there | came and stood | he really said | O grandfather!</p>
+
+<pb n="383" /><anchor id="Pg383" />
+
+<p>18 | Ĕʇsíqtsi | níkacíʞa é<note place="foot"><p>Here they obtained human souls, though they were in the bodies of birds. See
+the bird hovering above the four upper worlds in the chart. Then began the descent
+to this earth.</p></note>: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Just there | they were human  beings | he really said | O grandfather!</p>
+
+<p>   | Cŭ<hi rend="vertical-align: super">n</hi>’ŭ<hi rend="vertical-align: super">n</hi>ckíta | ɔiñ’ʞa | cuíʞa | wa¢iñ’ʞa<hi rend="font-weight: bold">d</hi>e ¢añká: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Awhile longer | child | body | they were without | he really said | O grandfather!</p>
+
+<p>   | Ɔiñ’ʞa | ɔuíʞa | añʞúʞiʇse | a<hi rend="vertical-align: super">n</hi>ma<hi rend="vertical-align: super">n</hi>’¢i<hi rend="vertical-align: super">n</hi> tá<hi rend="font-weight: bold">d</hi>etse: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Child | body | we seek ours | we shall walk | he really said | O grandfather!</p>
+
+<p>21 | Máxe úsakí<hi rend="font-weight: bold">d</hi>a | ¢á<hi rend="font-weight: bold">d</hi>¢<hi rend="vertical-align: super">n</hi>i | ĕ’ʇsi tsi’ naɔi<hi rend="vertical-align: super">n</hi>’: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Parallel upper worlds | three | there came this way and stood | he really said | O grandfather!</p>
+
+<p>   | Ɔiñ’ʞa | ɔuíʞa-<hi rend="font-weight: bold">d</hi>áɔĭ | é | e¢á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Child | had no bodies | that | indeed, he really said | O grandfather!</p>
+
+<p>   | Há, | wisŭñ’ʞa! | ɔiñ’ʞa | ɔuíʞa | wa¢iñ’ʞe, | éʞi añká: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Ho | younger brother | child | body | they have none | he was saying that | he really said | O grandfather!</p>
+
+<p>24 | Ɔiñ’ʞa | ɔuíʞa | añʞúʞiʇse | a<hi rend="vertical-align: super">n</hi>ma<hi rend="vertical-align: super">n</hi>’¢i<hi rend="vertical-align: super">n</hi> tá<hi rend="font-weight: bold">d</hi>etse: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Child | body | we seek ours | we shall walk | he really said | O grandfather!</p>
+
+<p>   | Máxe úsakí<hi rend="font-weight: bold">d</hi>a | ¢ŭ<hi rend="vertical-align: super">n</hi>’<hi rend="font-weight: bold">d</hi>a | ĕ’ʇsi tsi’ naɔi<hi rend="vertical-align: super">n</hi>’: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Parallel upper worlds | two | there came this way and stood | he really said | O grandfather!</p>
+
+<p>   | Ɔiñ’ʞa | ɔuíʞa | kíi¢a-<hi rend="font-weight: bold">d</hi>áɔĭ: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Child | body | they did not find for | he really said | O grandfather!</p>
+
+<p>27 | Há, | wisŭñ’ʞa! | ɔiñ’ʞa | ɔuíʞa | wa¢iñ’ʞe, | éʞi añká: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Ho | younger brother | child | body | they have none | he was saying that | he really said | O grandfather!</p>
+
+<p>   | Cŭ<hi rend="vertical-align: super">n</hi>’ŭ<hi rend="vertical-align: super">n</hi>ckíta | úʇa<hi rend="vertical-align: super">n</hi><hi rend="font-weight: bold">d</hi>e | añʞáxe tá<hi rend="font-weight: bold">d</hi>etse: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Awhile longer | examination | we shall make | he really said | O grandfather!</p>
+
+<p>   | Máxe usakí<hi rend="font-weight: bold">d</hi>a | wi<hi rend="vertical-align: super">n</hi>’qtsi | ĕ’ʇsi tsi’ naɔi<hi rend="vertical-align: super">n</hi>’: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Parallel upper worlds | one | there came this way and stood | he really said | O grandfather!</p>
+
+<p>30 | Pü’sühü | wi<hi rend="vertical-align: super">n</hi> | átsi ánaɔi<hi rend="vertical-align: super">n</hi> añká: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Red oak | one | they came to and stood on | he really said | O grandfather!</p>
+
+<pb n="384" /><anchor id="Pg384" />
+
+<p>31 | Hŭ<hi rend="vertical-align: super">n</hi>’<hi rend="font-weight: bold">d</hi>a | ¢áʞ¢i<hi rend="vertical-align: super">n</hi>qtsi  | ĕ’ʇsi | tsi’ naɔi<hi rend="vertical-align: super">n</hi>’: |  á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Day | very good  |  there |   came and stood   | he really said | O grandfather!</p>
+
+<p>   | Káxe-wáhü-sa<hi rend="vertical-align: super">n</hi><note place="foot"><p>Why the Black Bear was called Káxe-wáhü-sa<hi rend="vertical-align: super">n</hi> was not explained to the author.</p></note> | ¢é-na: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Crow bone white | he who was mv. in the past | he really said | O grandfather!</p>
+
+<p>33 | ¢útsi naɔi<hi rend="vertical-align: super">n</hi>’ | é | e¢á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Came directly to him and stood | he said | indeed, he really said | O grandfather!</p>
+
+<p>   | Há, | wiɔi<hi rend="vertical-align: super">n</hi>¢é:  | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Ho | elder brother! | he really said | O grandfather!</p>
+
+<p>   | Cáʞe | ʇsüʇsea<hi rend="vertical-align: super">n</hi>’ ¢akcí¢ĕ | ma<hi rend="vertical-align: super">n</hi>hni<hi rend="vertical-align: super">n</hi>’  tatsé<note place="foot"><p>Cáʞe | ʇsüʇsea<hi rend="vertical-align: super">n</hi>’ ¢akcí¢ĕ &amp;c. <hi rend="font-style: italic">You shall take me for your servant</hi>; literally, <hi rend="font-style: italic">You
+shall walk, causing me to burn my feet</hi>; that is, <hi rend="font-style: italic">You shall make me go through fire
+and water for you</hi>.</p></note>: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Paws | you burn them for me | you shall walk | he really said | O grandfather!</p>
+
+<p>36 | Há,  | Káxe-wáhü-sa<hi rend="vertical-align: super">n</hi>! | éʞi añká: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Ho | crow bone white! | he was saying that | he really said | O grandfather!</p>
+
+<p>   | Wátse-ʇúka-na<note place="foot"><p>Wátse-ʇúʞa-na.  ʇuʞa shows that the star was regarded as a male <hi rend="font-style: italic">animal</hi>, just
+as mi<hi rend="vertical-align: super">n</hi>’ʞa, in line 43, denotes that the next star was a female <hi rend="font-style: italic">animal</hi>, not a female of
+the human race. As they were called "grandfather" and "grandmother," they
+were looked upon as supernatural beings or gods. So were all of the heavenly
+bodies to whom the Black Bear applied.</p></note> | ĕ’ʇsi | hi’ naɔi<hi rend="vertical-align: super">n</hi>’ añká:  | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Male animal who touched a foe in the past | there | he arrived and was standing | he really said | O grandfather!</p>
+
+<p>   | Há, | wítsiʞué! | éʞi añká:  | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Ho | grandfather! | he was saying that | he really said | O grandfather!</p>
+
+<p>39 | Ɔiñ’ʞa |  ɔuíʞa |  wa¢iñ’ʞe añká:  | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Child | body | they have none |  he really said | O grandfather!</p>
+
+<p>   | Ɔiñ’ʞa |  ɔuíʞa |  miñkcé | ¢an’tse<note place="foot"><p>Ɔiñ’ʞa ɔuíʞa miñkcé ¢an’tse, a phrase that puzzles the writer, who suspects
+that an auxiliary verb has been omitted and that the whole should read: "Ɔiñʞa
+ɔuiʞa-wikci¢e miñkcé ¢an’tse? ( <hi rend="font-style: italic">Can I give you bodies for the children</hi>?) No! You
+must still make attempts to obtain them elsewhere."</p></note>: |  á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Child | body | I who sit(?) | apt |   he really said | O grandfather!</p>
+
+<p>   | Wákanʇá| ʞána | <hi rend="font-weight: bold">d</hi>¢i<hi rend="vertical-align: super">n</hi>-máɔĭ<note place="foot"><p>Wákanʇá ʞána <hi rend="font-weight: bold">d</hi>¢i<hi rend="vertical-align: super">n</hi>-máɔĭ, <hi rend="font-style: italic">I am not the only mysterious one</hi> (apply to some one
+of the rest).</p></note>, | éʞi añʞá: |  á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Mysterious one | that only | I am I-not | he was saying that | he really said | O grandfather!</p>
+
+<p>42 | Cŭ<hi rend="vertical-align: super">n</hi>’ŭ<hi rend="vertical-align: super">n</hi>ckíta | úʇa<hi rend="vertical-align: super">n</hi><hi rend="font-weight: bold">d</hi>e¢a¢é tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Awhile longer | you shall attend to it |  he really said | O grandfather!</p>
+
+<p>   | Wátse-mi<hi rend="vertical-align: super">n</hi>’ʞa-na | ĕ’ʇsi | hi’ naɔi<hi rend="vertical-align: super">n</hi>’ añká:  | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Female animal who had touched a foe in the past | there | he arrived and was std. | he really said | O grandfather!</p>
+
+<p>   | Há, | íɥʞué! | éʞi añká: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Ho | grandmother! | he was saying that | he really said | O grandfather!</p>
+
+<p>45 | Ɔiñ’ʞa |  ɔuíʞa |  wa¢iñ’ʞe añká:  | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Child | body | they have none |  he really said | O grandfather!</p>
+
+<p>   | Ɔiñ’ʞa |  ɔuíʞa |  miñkcé | ¢an’tse: |  á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Child | body | I who sit | apt |   he really said | O grandfather!</p>
+
+<pb n="385" /><anchor id="Pg385" />
+
+<p>47 | Wákanʇá | ʞána | <hi rend="font-weight: bold">d</hi>¢i<hi rend="vertical-align: super">n</hi>-mácĭ, | éʞi añká: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taŭ, | Tsiká!</p>
+
+<p>   | Mysterious one | that only |I am I-not | she was saying that | he really said |O grandfather!</p>
+
+<p>   | Cŭ<hi rend="vertical-align: super">n</hi>’ŭ<hi rend="vertical-align: super">n</hi>ckíta | úʇa<hi rend="vertical-align: super">n</hi><hi rend="font-weight: bold">d</hi>e¢a¢é tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Awhile longer | you shall attend to it | he really said | O grandfather!</p>
+
+<p>   | Ha<hi rend="vertical-align: super">n</hi>’<hi rend="font-weight: bold">d</hi>a-ʇa<hi rend="vertical-align: super">n</hi> | wákanʇá | ¢iñkcĕ’ʇsi |  hi’ naɔi<hi rend="vertical-align: super">n</hi>’: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | During the day | mysterious one | to the ob. | he arrived and stood | he really said | O grandfather!</p>
+
+<p>   | Há, | wítsiʞué | éʞi añká | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Ho | grandfather! | he was saying that | he really said | O grandfather!</p>
+
+<p>51 | Ɔiñ’ʞa | ɔuíʞa | wa¢iñ’ʞa<hi rend="font-weight: bold">d</hi>e, | wítsiʞué | éʞi añká: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Child | body |they have none | grandfather! | he was saying that | he really said |O grandfather!</p>
+
+<p>   | Ɔiñ’ʞa | ɔuíʞa | miñkcé | ¢an’tse: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Child | body |I who sit | apt | he really said |O grandfather!</p>
+
+<p>   | Wákanʇá | ʞána | <hi rend="font-weight: bold">d</hi>¢i<hi rend="vertical-align: super">n</hi>-máɔĭ, | éʞi añká: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Mysterious one | that |I am I-not | he was saying that | he really said |O grandfather!</p>
+
+<p>54 | Cŭ<hi rend="vertical-align: super">n</hi>ŭ<hi rend="vertical-align: super">n</hi>ckítá | úʇa<hi rend="vertical-align: super">n</hi><hi rend="font-weight: bold">d</hi>e¢a¢é tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Awhile | you shall attend to it | he really said | O grandfather!</p>
+
+<p>   | Wákanʇá | ha<hi rend="vertical-align: super">n</hi>’ | ¢iñkcí | ĕ’ʇsi | hi’ naɔi<hi rend="vertical-align: super">n</hi>’: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Mysterious one | night | the st. ob. | there | he arrived and stood | he really said | O grandfather!</p>
+
+<p>   | Há, | wítsiʞué | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Ho | grandfather! | he really said | O grandfather!</p>
+
+<p>57 | Ɔiñʞa | cuíʞa | wa¢iñ’ʞa<hi rend="font-weight: bold">d</hi>e, | wítsiʞué | eʞi añká: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Child | body |they have none | grandfather! | he was saying that | he really said | O grandfather!</p>
+
+<p>   | Ɔiñ’ʞa | ɔuíʞa | miñkcé | ¢an’tse: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Child | body |I who sit | apt | he really said |O grandfather!</p>
+
+<p>   | Wákanʇá | ʞána | <hi rend="font-weight: bold">d</hi>¢i<hi rend="vertical-align: super">n</hi>-máɔĭ, | éʞi añká: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Mysterious one | that only |I am I-not | he was saying that | he really said |O grandfather!</p>
+
+<p>60 | Cŭ<hi rend="vertical-align: super">n</hi>’ŭ<hi rend="vertical-align: super">n</hi>ckíta | úʇa<hi rend="vertical-align: super">n</hi><hi rend="font-weight: bold">d</hi>e¢a¢é tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Awhile longer | you shall attend to it | he really said | O grandfather!</p>
+
+<p>   | Mikák'ĕ | pé¢ú<hi rend="vertical-align: super">n</hi><hi rend="font-weight: bold">d</hi>a<note place="foot"><p>Mikák'ĕ pé¢ŭ<hi rend="font-weight: bold">d</hi>a, sometimes called "Mikák'ĕ u<hi rend="font-weight: bold">d</hi>átse pé¢ŭ<hi rend="vertical-align: super">n</hi><hi rend="font-weight: bold">d</hi>a," the Seven Gentes
+of Stars. Could this have any connection with the use of the number 7 as the
+number of the Tsiɔu, Waɔaɔe, and Hañʞa gentes?</p></note> | ¢iñkcí | ĕ’ʇsi |  tsi’ naɔi<hi rend="vertical-align: super">n</hi>’: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Star | seven | the cv. ob. | to it | he came and stood | he really said | O grandfather!</p>
+
+<p>   | Há, | wítsiʞué | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Ho | grandfather! | he really said | O grandfather!</p>
+
+<p>63 | Ɔiñ’ʞa | ɔuíʞa | wa¢iñ’ʞa<hi rend="font-weight: bold">d</hi>e, | wítsiʞué | éʞi añká: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Child | body |they have none | grandfathers! | she was saying that | he really said |O grandfather!</p>
+
+<p>   | Ɔiñ’ʞa | ɔuíʞa | miñkcé | ¢an’tse: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Child | body |I who sit | apt | he really said |O grandfather!</p>
+
+<p>   | Wákanʇá | ʞána | <hi rend="font-weight: bold">d</hi>¢i<hi rend="vertical-align: super">n</hi>-máɔĭ, | éʞi añká: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Mysterious one | that only |I am I-not | he was saying that | he really said |O grandfather!</p>
+
+<p>66 | Cŭ<hi rend="vertical-align: super">n</hi>’ŭ<hi rend="vertical-align: super">n</hi>ckíta | úʇa<hi rend="vertical-align: super">n</hi><hi rend="font-weight: bold">d</hi>e¢a¢é tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Awhile longer | you shall attend to it | he really said | O grandfather!</p>
+
+<pb n="386" /><anchor id="Pg386" />
+
+<p>67 | Tá | ¢a<hi rend="font-weight: bold">d</hi>¢i<hi rend="vertical-align: super">n</hi> | ¢iñkcĕ’ʇsi | tsi’ naɔi<hi rend="vertical-align: super">n</hi>’: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Deer | three | to the st. an. object | he came and stood | he really said | O grandfather!</p>
+
+<p>   | Há, | wítsiʞué | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Ho | grandfather! | he really said | O grandfather!</p>
+
+<p>69 | Ɔiñ’ʞa | ɔuíʞa | wa¢iñ’ʞa<hi rend="font-weight: bold">d</hi>e, | wítsiʞué | éʞi añká: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Child | body |they have none | grandfather | he was saying that | he really said |O grandfather!</p>
+
+<p>   | Ɔiñ’ʞa | ɔuíʞa | miñkcé | ¢an’tse: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Child | body |I who | apt | he really said |O grandfather!</p>
+
+<p>   | Wákanʇá | ʞána | <hi rend="font-weight: bold">d</hi>¢i<hi rend="vertical-align: super">n</hi>-máɔĭ, | éʞi añká: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Mysterious one | that only |I am I-not | he was saying that | he really said |O grandfather!</p>
+
+<p>72 | Cŭ<hi rend="vertical-align: super">n</hi>’ŭ<hi rend="vertical-align: super">n</hi>ckíta | úʇa<hi rend="vertical-align: super">n</hi><hi rend="font-weight: bold">d</hi>e¢a¢é tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Awhile longer | you shall attend to it | he really said | O grandfather!</p>
+
+<p>   | Mikák'ĕ | tañ’ʞa | ha<hi rend="vertical-align: super">n</hi>’<hi rend="font-weight: bold">d</hi>a-ʇa<hi rend="vertical-align: super">n</hi>’ | ¢iñkci’ | ĕ’ʇsi |  tsi’ naɔi<hi rend="vertical-align: super">n</hi>’: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Star | large | during the day | the st. ob. | there | he came and stood | he really said | O grandfather!</p>
+
+<p>   | Há, | wítsiʞué! | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Ho | grandfather! | he really said | O grandfather!</p>
+
+<p>75 | Ɔiñ’ʞa | ɔuíʞa | wa¢iñ’ʞa<hi rend="font-weight: bold">d</hi>e, | wítsiʞué | éʞi añká | e: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Child | body |they have none | grandfather | he was saying that | that| he really said |O grandfather!</p>
+
+<p>   | Ɔiñ’ʞa | ɔuíʞa | miñkcé | ¢an’tse: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Child | body | I who | apt | he really said |O grandfather!</p>
+
+<p>   | Wákanʇá | ʞána | <hi rend="font-weight: bold">d</hi>¢i<hi rend="vertical-align: super">n</hi>-máɔĭ, | éʞi añká: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Mysterious one | that only |I am I-not | he was saying that | he really said |O grandfather!</p>
+
+<p>78 | Cŭ<hi rend="vertical-align: super">n</hi>’ŭ<hi rend="vertical-align: super">n</hi>ckíta | úʇa<hi rend="vertical-align: super">n</hi><hi rend="font-weight: bold">d</hi>e¢a¢é tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Awhile longer | you shall attend to it | he really said | O grandfather!</p>
+
+<p>   | Mikák'ĕ | ɔiñ’ʞa | ¢iñkci’ | ĕ’ʇsi | tsí naɔi<hi rend="vertical-align: super">n</hi>’: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Star | small | the st. an. ob. | there | he came and stood | he really said | O grandfather!</p>
+
+<p>   | Há, | wítsiʞué! | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Ho | grandfather! | he really said | O grandfather!</p>
+
+<p>81 | Ɔiñ’ʞa | ɔuíʞa | wa¢iñ’ʞa<hi rend="font-weight: bold">d</hi>e, | wítsiʞué | éʞi añká: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Child | body |they have none | grandfather | he was saying that | he really said |O grandfather!</p>
+
+<p>   | Ɔiñ’ʞa | ɔuíʞa | miñkcé | ¢an’tse: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Child | body | I who | apt | he really said | O grandfather!</p>
+
+<p>   | Wákanʇá | ʞána | <hi rend="font-weight: bold">d</hi>¢i<hi rend="vertical-align: super">n</hi>-máɔĭ, | éʞi añká: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Mysterious one | that only |I am I-not | he was saying that | he really said |O grandfather!</p>
+
+<p>84 | Cŭ<hi rend="vertical-align: super">n</hi>’ŭ<hi rend="vertical-align: super">n</hi>ckíta | úʇa<hi rend="vertical-align: super">n</hi><hi rend="font-weight: bold">d</hi>e¢a¢é tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Awhile longer | you shall attend to it | he really said | O grandfather!</p>
+
+<p>   | Waɔiñ’ʞa | ɔü’ʇse | ¢e-ná | tsíhe | uʞíʞ¢i<hi rend="vertical-align: super">n</hi> qtsi ¢iñkcé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Bird | red | the one mv. in the past | nest | she was sitting in her own | he really said | O grandfather!</p>
+
+<p>   | Ĕ’ʇsi | hi’ naɔi<hi rend="vertical-align: super">n</hi>’ añká: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | There | he arrived and was standing | he really said | O grandfather!</p>
+
+<p>87 | Há, | iɥʞú! | é añká:  | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Ho | grandmother! | he was saying | he really said | O grandfather!</p>
+
+<pb n="387" /><anchor id="Pg387" />
+
+<p>88 | Ɔiñ’ʞa | ɔuíʞa | wa¢iñ’ʞa<hi rend="font-weight: bold">d</hi>e, | éʞi añka: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!<note place="foot"><p>ʞahiʞe-waʇayiñʞa, of this gens, gave the following as another reading:</p>
+
+<p>Ɔiñ’ʞa | níkacíʞa | ¢iñʞé-eʇa<hi rend="vertical-align: super">n</hi>’, | cu<hi rend="font-weight: bold">d</hi>¢é | e¢aú, | wítsiʞué! | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>Child | human beings | none as | I go to you | indeed | O grandfather! | he really said | O grandfather!</p>
+
+<p rend="text-align: center"><hi rend="font-style: italic">Translation</hi>.</p>
+
+<p>As the children are not human beings, I go to you, O grandfather!</p></note></p>
+
+<p>   | Child | body | they have none | he was saying that | he really said | O grandfather!</p>
+
+<p>   | Ɔiñ’ʞa | ɔuíʞa wíʞi¢e | ¢an’tsé, | é ¢iñkcé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Child | I cause you to have my body | apt | she was saying as she sat | he really said | O grandfather!</p>
+
+<p>90 | Ahü-sáʞi | ʞá¢iñkcé | ɔiñ’ʞa | áhü-sáʞi | ma<hi rend="vertical-align: super">n</hi>¢i<hi rend="vertical-align: super">n</hi>’ tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Wing hard | that one | child | wing hard | shall walk | he really said | O grandfather!</p>
+
+<p>   | Áhü-sáʞi | amá ¢iñkcé | ɔiñ’ʞa | áhü-sáki | tatsé: á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, Tsiká!</p>
+
+<p>   | Wing hard | the other one | child | wing hard | shall (be) | he really said | O grandfather!</p>
+
+<p>   | Taqpü’ | ʞá¢iñkcé | ɔiñ’ʞa | taqpü’ | ma<hi rend="vertical-align: super">n</hi>¢i<hi rend="vertical-align: super">n</hi>’ tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Crown of the head | that cv. ob. | child | crown of the head | shall walk | he really said | O grandfather!</p>
+
+<p>93 | Í¢etsĕ | ʞá¢iñkcé | ɔiñ’ʞa | í¢etsĕ | ma<hi rend="vertical-align: super">n</hi>¢i<hi rend="vertical-align: super">n</hi>’ tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Mouth | that cv. ob. | child | mouth | shall walk | he really said | O grandfather!</p>
+
+<p>   | Pé | ¢é¢iñkcé | ɔiñ’ʞa | pé | ma<hi rend="vertical-align: super">n</hi>¢i<hi rend="vertical-align: super">n</hi>’ tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Forehead | this cv. ob. | child | forehead | shall walk | he really said | O grandfather!</p>
+
+<p>   | Táhütse | ʞá¢iñkcé | ɔiñ’ʞa | táhütse | ma<hi rend="vertical-align: super">n</hi>¢i<hi rend="vertical-align: super">n</hi>’ tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Neck | that cv. ob. | child | neck | shall walk | he really said | O grandfather!</p>
+
+<p>96 | Wé¢ahni<hi rend="vertical-align: super">n</hi> | ʞá¢iñkcé | ɔiñ’ʞa | wé¢ahni<hi rend="vertical-align: super">n</hi> | ma<hi rend="vertical-align: super">n</hi>¢i<hi rend="vertical-align: super">n</hi>’ tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Gullet | that cv. ob. | child | gullet | shall walk | he really said | O grandfather!</p>
+
+<p>   | Mañ’ʞe | ʞá¢iñkcé | ɔiñ’ʞa | mañ’ʞe | tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Chest | that cv. ob. | child | chest | shall (be) | he really said | O grandfather!</p>
+
+<p>   | ¢ü’we-uq¢úk'a | ʞá¢iñkcé | ɔiñ’ʞa | ¢ü’we-uq¢úk'a | tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Bowels | that cv. ob. | child | bowels | shall (be) | he really said | O grandfather!</p>
+
+<p>99 | Ɔéʞutañ’ʞa | ʞá¢iñkcé | ɔiñ’ʞa | ɔéʞutañ’ʞa | tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Thighs | that cv. ob. | child | thighs | shall (be) | he really said | O grandfather!</p>
+
+<p>   | Cí¢anʇse | ʞá¢iñkcé | ɔiñ’ʞa | cí¢anʇse  | tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Knee | that cv. ob. | child | knee | shall (be) | he really said | O grandfather!</p>
+
+<p>   | Náqpü | ʞá¢iñkcé | ɔiñ’ʞa | náqpü | tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Calf of leg | that cv. ob. | child | calf of leg | shall (be) | he really said | O grandfather!</p>
+
+<p>102| Sí¢eʇse | ʞá¢iñkcé | ɔiñ’ʞa | sí¢eʇse | tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Heel | that cv. ob. | child | heel | shall (be) | he really said | O grandfather!</p>
+
+<p>   | Sipá | ʞá¢iñkcé | ɔiñ’ʞa | sipá | tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Toe | that cv. ob. | child | toe | shall (be) | he really said | O grandfather!</p>
+
+<p>   | Sípu-itáxe | ʞá¢iñkcé | ɔiñ’ʞa | sípu-itáxe | tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Tip of toe | that cv. ob. | child | tip of toe toe | shall (be) | he really said | O grandfather!</p>
+
+<p>105 | Ɔiñ’ʞa | its'é | ¢iñʞĕ’qtsi | ma<hi rend="vertical-align: super">n</hi>hni<hi rend="vertical-align: super">n</hi>’ tá<hi rend="font-weight: bold">d</hi>etsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>    | Child | cause of death | without any at all | ye shall walk | he really said | O grandfather!</p>
+
+<pb n="388" /><anchor id="Pg388" />
+
+<p>106 | Ɔiñ’ʞa | ¢aníkacíʞa |ma<hi rend="vertical-align: super">n</hi>hni<hi rend="vertical-align: super">n</hi>’ tá<hi rend="font-weight: bold">d</hi>etsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>    | Children | you are human beings |you shall walk | he really said | O grandfather!</p>
+
+<p>| Ɔiñ’ʞa | únia<hi rend="vertical-align: super">n</hi> | ʞá¢iñkcé | ɔiñ’ʞa | únia<hi rend="vertical-align: super">n</hi>’wíkci¢ĕ: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>| Child | speech (?) | that |  child | I cause you to speak (?) | he really said | O grandfather!</p>
+
+<p>The rest of this tradition was not obtained.</p>
+
+<p rend="text-align: center"><hi rend="font-style: italic">Translation</hi>.</p>
+
+<p>The following translation is arranged in lines to correspond to the
+lines in the original text:</p>
+
+<p>1 The first of the race<lb />
+  Was saying, "Ho, younger brother! the children have no bodies.<lb />
+3 "We shall seek bodies for our children.<lb />
+  "Ho, younger brother! you shall attend to it."<lb />
+  They reached one upper world and stood.<lb />
+6 There they were not human beings.<lb />
+  "Ho, younger brother! the children have no bodies," he was saying.<lb />
+  "We must seek bodies for our children."<lb />
+9 They reached the second upper world and stood.<lb />
+  There they were not human beings.<lb />
+  "Ho, younger brother! the children have no bodies," he was saying.<lb />
+12 "We must seek bodies for our children."<lb />
+  They reached the third upper world and stood.<lb />
+  There they were not human beings.<lb />
+15 "Ho, younger brother! the children have no bodies," he was saying.<lb />
+  "We must seek bodies for our children."<lb />
+  They reached the fourth upper world and stood.<lb />
+18 There they became human beings.<lb />
+  Still, the children were without (human) bodies.<lb />
+  "We must continue to seek bodies for our children."<lb />
+21 They returned to the third upper world and stood.<lb />
+  The children were really without bodies.<lb />
+  "Ho, younger brother! the children have no bodies," he was saying.<lb />
+24 "We must continue to seek bodies for our children."<lb />
+  They returned to the second upper world and stood.<lb />
+  The children did not find bodies for themselves.<lb />
+27 "Ho, younger brother! the children have no bodies," he was saying.<lb />
+  "We must make an examination awhile longer."<lb />
+  They returned to the first upper world and stood.<lb />
+30 They came to a red oak and were standing on it.<lb />
+  On a very fine day they came hither and stood.<lb />
+  Kaxe-wahü-sa<hi rend="vertical-align: super">n</hi> (the Black Bear), who was then moving,<lb />
+33 Came directly to them and stood.<lb />
+  "Ho, elder brother!" (said the Black Bear.)<lb />
+  "You shall continue to burn my feet for me."<lb />
+36 "Ho, Kaxe-wahü-sa<hi rend="vertical-align: super">n</hi>!" was he (the Tsiɔu) saying.<lb />
+  Kaxe-wahü-sa<hi rend="vertical-align: super">n</hi> went to the star Watse-ʇuʞa.<lb />
+  "Ho, grandfather!" he was saying.<lb />
+39 "The children have no bodies."<lb />
+  Watse-ʇuʞa replied, "Can I give the children bodies?<lb />
+  "I am not the only mysterious one;<lb />
+42 "You shall attend to it awhile longer."<lb />
+  Then Kaxe-wahü-sa<hi rend="vertical-align: super">n</hi> went to the star Watse-mi<hi rend="vertical-align: super">n</hi>ʞa.<lb />
+<pb n="389" /><anchor id="Pg389" />
+44 "Ho, grandmother!" he said;<lb />
+  "The children have no bodies."<lb />
+  She replied, "Can I give bodies to the children?<lb />
+  "I am not the only mysterious one;<lb />
+48 "You shall attend to it awhile longer."<lb />
+  Then he went to the mysterious one of day.<lb />
+  "Ho, grandfather!" said he;<lb />
+51 "The children have no bodies."<lb />
+  Said he, "Can I give the children bodies?<lb />
+  "I am not the only mysterious one;<lb />
+54 "You shall attend to it awhile longer."<lb />
+  Then he went to the mysterious one of night.<lb />
+  "Ho, grandfather!" said he;<lb />
+57 "The children have no bodies, grandfather!"<lb />
+  The Moon replied, "Can I give bodies to the children?<lb />
+  "I am not the only mysterious one;<lb />
+60 "You shall attend to it awhile longer."<lb />
+  Then he went to the Pleiades, saying,<lb />
+  "Ho, grandfathers!<lb />
+63 "The children have no bodies."<lb />
+  One of these replied, "Can I give bodies to the children?<lb />
+  "I am not the only mysterious one;<lb />
+66 "You shall attend to it awhile longer."<lb />
+  Then he went to the constellation called Three Deer.<lb />
+  "Ho, grandfather," said he;<lb />
+69 "The children have no bodies."<lb />
+  The latter replied, "Can I give the children bodies?<lb />
+  "I am not the only mysterious one;<lb />
+72 "You shall attend to it awhile longer."<lb />
+  Then he went to the Morning Star, saying,<lb />
+  "Ho, grandfather!<lb />
+75 "The children have no bodies."<lb />
+  The star replied, "Can I give bodies to the children?<lb />
+  "I am not the only mysterious one;<lb />
+78 "You shall attend to it awhile longer."<lb />
+  Then he went to the Small Star, saying,<lb />
+  "Ho, grandfather!<lb />
+81 "The children have no bodies."<lb />
+  The star replied, "Can I give bodies to the children?<lb />
+  "I am not the only mysterious one;<lb />
+84 "You shall attend to it awhile longer."<lb />
+  The female Red Bird, who had been moving, was sitting on her nest.<lb />
+  To her he came, saying,<lb />
+87 "Ho, grandmother!<lb />
+  "The children have no bodies."<lb />
+  She replied, "I can cause your children to have (human) bodies from my own,<lb />
+90 "My left wing shall be a left arm for the children.<lb />
+  "My right wing shall be a right arm for them.<lb />
+  "My head shall be a head for them.<lb />
+93 "My mouth shall be a mouth for them.<lb />
+  "My forehead shall be a forehead for them.<lb />
+  "My neck shall be a neck for them.<lb />
+96 "My throat shall be a throat for them.<lb />
+  "My chest shall be a chest for them.<lb />
+<pb n="390" /><anchor id="Pg390" />
+98 "My bowels shall be bowels for them.<lb />
+    "My thighs shall be thighs for them.<lb />
+    "My knees shall be knees for them.<lb />
+    "The calves of my legs shall be calves of their legs.<lb />
+102 "My heels shall be their heels.<lb />
+    "My toes shall be their toes.<lb />
+    "My claws shall be their toenails.<lb />
+105 "You shall continue to exist without any cause of destruction for your race.<lb />
+    "Your children shall live as human beings.<lb />
+    "The speech (or breath) of children will I bestow on your children."</p>
+</div>
+
+<div>
+<index index="toc" />
+<index index="pdf" level1="UNUn' UcAkE. QUcAPASAn ITAPE." />
+<head>UNŬ<hi rend="vertical-align: super">n</hi>’ U¢ÁʞE.  QÜ¢ÁPASA<hi rend="vertical-align: super">n</hi> ITÁ<hi rend="font-weight: bold">P</hi>E.</head>
+
+<p>(Tradition of the Bald Eagle subgens.)<note place="foot"><p>This fragment of the tradition of the Bald Eagle subgens of the Tsiɔu wactaʞe
+gens was told by Pahü-skă, the chief, to Ha<hi rend="font-weight: bold">d</hi>a-ɔüʇse, who related it to the writer on
+the following day.</p>
+
+<p>Ha<hi rend="font-weight: bold">d</hi>a-ɔüʇse, told some of the tradition first in English, but on chanting it in Osage
+he did not give all; so the former account is now given in these notes: "When the
+ancestors of the Bald Eagle people came to this earth they alighted on a sycamore
+tree, as all of the surrounding country was under water. This water was dried up
+by the ancestors of the Elk people, according to the tradition of the Ṵpqa<hi rend="vertical-align: super">n</hi> or Elk
+gens; but this is disputed by the members of the I<hi rend="font-weight: bold">d</hi>ats'ĕ gens, who are Kansa or
+Wind people. They say that their ancestors blew on the water, drying it up and
+causing the growth of vegetation. As soon as the water was gone the Bald Eagle
+people alighted on the ground. Then they met the Black Bear, who offered to become
+the servant of the Tsiɔu wactaʞe people. So he was sent to "Watse-ʇuʞa, who
+was a red star; then to Watse-mi<hi rend="vertical-align: super">n</hi>ʞa, a star near the Morning Star; then to the Sun,
+Moon, and Seven Stars. As the people journeyed, the Black Bear said to the Tsiɔu
+leader, 'Brother, I see a man's trail. Here is the man.' The stranger said, 'I am
+a young Hañʞa. I am fit for work.' So they took him with them. Then they
+saw another trail, of which the Black Bear spoke to the Tsíɔu leader. They overtook
+the man, who was Hañʞaqtsi or Real Hañʞa. By and by they reached the
+village of the Hañʞa uta¢anʇse. They entered the village and made peace with the
+inhabitants. Then the leader of the Hañʞa uta¢anʇse said, 'We have some people
+come to us, and we will make them our chiefs.' So the two wactaʞe were made
+chiefs. The wactaʞe were then sent to search for a land where they might dwell,
+as the village of the Hañʞa uta¢anʇse was filthy and offensive on account of the dead
+bodies in and around it. This council was the first one of the whole nation. The
+two wactaʞe went out as mourners for seven days. The Hañʞa wactaʞe (Pa<hi rend="vertical-align: super">n</hi>ɥka = Ponka)
+came back first, saying, 'I have found a place.' Afterwards the Tsiɔu
+wactaʞe returned and reported. The council was held again to decide to which
+place they would go. They agreed to settle at the place visited by the Tsiɔu
+wactaʞe. Then four standards were made by members of the Waɔaɔe (wanŭ<hi rend="vertical-align: super">n</hi>
+gens, two for each side of the tribe. These were the standards made of mi<hi rend="vertical-align: super">n</hi>xa ha
+(swan or goose skins), and they were carried on the hunting road as well as on the
+war path. But the otter skin standards were always retained by the Waɔaɔe gens."</p>
+
+<p>On comparing this version with that of Sa<hi rend="font-weight: bold">d</hi>eki¢e we notice that in one or the
+other a transposition of some parts has been made. In this latter tradition the appeals
+to the heavenly bodies and to the Red Bird were made before the journey to
+the four revolutions of the upper worlds.</p></note></p>
+
+<p>1 | Ɔiñ’ʞa | níɥk’ăcíʞa | tá<hi rend="font-weight: bold">d</hi>eʇa<hi rend="vertical-align: super">n</hi> | úʇa<hi rend="vertical-align: super">n</hi><hi rend="font-weight: bold">d</hi>e | añʞáxe tatsé, | wísŭñʞá:</p>
+
+<p> | Child | human beings | in order that (pl.) | attention | we shall make | younger brother</p>
+
+<p>   | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | he really said | O grandfather!</p>
+
+<p>| Káxe-wáhü-sa<hi rend="vertical-align: super">n</hi> | tsi’ naci<hi rend="vertical-align: super">n</hi>’: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>| Káxe-wáhü-sa<hi rend="vertical-align: super">n</hi> | came and stood | he really said | 0 grandfather!</p>
+
+<p>3 | Káxe-wáhü-sa<hi rend="vertical-align: super">n</hi>’ | ha<hi rend="vertical-align: super">n</hi>’<hi rend="font-weight: bold">d</hi>ʇa<hi rend="vertical-align: super">n</hi> | wakan’ʇa | ¢iñkcéʇsi | hi’naɔi<hi rend="vertical-align: super">n</hi>’: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú,</p>
+
+<p>  | Káxe-wáhü-sa<hi rend="vertical-align: super">n</hi> | during the day | mysterious one | to the st. an, ob. | came and stood | he really said</p>
+
+<p>    | Tsiká!</p>
+
+<p>    | O grandfather!</p>
+
+<pb n="391" /><anchor id="Pg391" />
+
+<p>4 | Há, | wítsiʞué! | ɔiñ’ʞa | ɔuíʞa | wa¢iñʞa<hi rend="font-weight: bold">d</hi>e, | éʞi añka: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>  | Ho | grandfather! |child | body |they have none | he was saying that | he really said |O grandfather!</p>
+
+<p>  | Wakan’ʇa | uɔañ’ʞe | ts'é | watséqi | <hi rend="font-weight: bold">d</hi>¢i<hi rend="vertical-align: super">n</hi>’ | e¢aú: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>  | Mysterious one | road | to die | difficult | I am | indeed | he really said | O grandfather!</p>
+
+<p>6 | Wakan’ʇa | ʞána | <hi rend="font-weight: bold">d</hi>¢i<hi rend="vertical-align: super">n</hi>-máɔi, | éʞiʞíe añka: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>  | O mysterious one | that only |I am I-not | he was saying to him what precedes | he really said |O grandfather!</p>
+
+<p>  | Cŭ<hi rend="vertical-align: super">n</hi>’ŭ<hi rend="vertical-align: super">n</hi>ckíta | úʇa<hi rend="vertical-align: super">n</hi><hi rend="font-weight: bold">d</hi>e¢acé tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>  | Awhile longer | you shall attend to it | he really said | O grandfather!</p>
+
+<p>  | Káxe-wáhü-sa<hi rend="vertical-align: super">n</hi>’, | cŭ<hi rend="vertical-align: super">n</hi>ta, | wisŭñ’ʞa, | úʇa<hi rend="vertical-align: super">n</hi><hi rend="font-weight: bold">d</hi>e | añʞáxe tá<hi rend="font-weight: bold">d</hi>etsé: |á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú,</p>
+
+<p>  | Káxe-wáhü-sa<hi rend="vertical-align: super">n</hi>’ | awhile longer | my younger brother | attention | we must make | he really said</p>
+
+<p>      | Tsiká!</p>
+
+<p>      | O grandfather!</p>
+
+<p>9 | Watsé-ʇúʞa | ¢iñcí ĕ’ʇsi | hi’ naɔi<hi rend="vertical-align: super">n</hi>’: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>  | Male animal that touched a foe | the std. to it an. ob. | arrived and stood | he really said | O grandfather!</p>
+
+<p>  | Há, | wítsiʞué! | ɔiñʞa | ɔuíʞa |  wa¢iñʞa<hi rend="font-weight: bold">d</hi>e, | éʞi añká: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>  | Ho | grandfather! | child | body | they have none | he was saying that | he really said | O grandfather!</p>
+
+<p>  | Wakan’ʇa | uɔañ’ʞe | ts'é | watséqi | <hi rend="font-weight: bold">d</hi>¢i<hi rend="vertical-align: super">n</hi>’ | e¢aú: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>  | Mysterious one | road | to die | difficult | I am | indeed | he really said | O grandfather!</p>
+
+<p>12 | Wakan’ʇa | ʞána | <hi rend="font-weight: bold">d</hi>¢i<hi rend="vertical-align: super">n</hi>-máɔĭ, | éʞiʞíe añka: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Mysterious one | that only |I am I-not | he was saying to him what precedes | he really said |O grandfather!</p>
+
+<p>   | Cŭ<hi rend="vertical-align: super">n</hi>’ŭ<hi rend="vertical-align: super">n</hi>ckíta | úʇa<hi rend="vertical-align: super">n</hi><hi rend="font-weight: bold">d</hi>e¢acé tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Awhile longer | you shall attend to it | he really said | O grandfather!</p>
+
+<p>   | Káxe-wáhü-sa<hi rend="vertical-align: super">n</hi>’, | cŭ<hi rend="vertical-align: super">n</hi>ta, | wisuñ’ʞa, | úʇa<hi rend="vertical-align: super">n</hi><hi rend="font-weight: bold">d</hi>e | añʞáxe tá<hi rend="font-weight: bold">d</hi>etsé: |á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú,</p>
+
+<p>   | Káxe-wáhü-sa<hi rend="vertical-align: super">n</hi>’ | awhile longer | my younger brother | attention | we must make | he really said</p>
+
+<p>       | Tsiká!</p>
+
+<p>       | O grandfather!</p>
+
+<p>15 | Wá<hi rend="font-weight: bold">d</hi>aha | ¢iñkcĕ’ʇsi|  hi’ naɔi<hi rend="vertical-align: super">n</hi>’: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Bier | to the st. an. ob. | arrived and stood | he really said | O grandfather!</p>
+
+<p>   | Há, | wítsiʞué! | ɔiñ’ʞa | ɔuíʞa | wa¢iñʞa<hi rend="font-weight: bold">d</hi>e, | éʞi añka: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Ho | grandfather! |child | body |they have none | he was saying that | he really said |O grandfather!</p>
+
+<p>   | Wakan’ʇa | uɔañ’ʞe | ts'é | watséqi | <hi rend="font-weight: bold">d</hi>¢i<hi rend="vertical-align: super">n</hi>’ | e¢aú: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Mysterious one | road | to die | difficult | I am | indeed | he really said | O grandfather!</p>
+
+<p>18 | Wakan’ʇa | ʞána | <hi rend="font-weight: bold">d</hi>¢i<hi rend="vertical-align: super">n</hi>-máɔĭ, | éʞiʞíe añka: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Mysterious one | that only |I am I-not | he was saying to him what precedes | he really said |O grandfather!</p>
+
+<p>   | Cŭ<hi rend="vertical-align: super">n</hi>’ŭ<hi rend="vertical-align: super">n</hi>ckíta | úʇa<hi rend="vertical-align: super">n</hi><hi rend="font-weight: bold">d</hi>e¢acé tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Awhile longer | you shall attend to it | he really said | O grandfather!</p>
+
+<pb n="392" /><anchor id="Pg392" />
+
+<p>20 | Káxe-wáhü-sa<hi rend="vertical-align: super">n</hi>’, | cŭ<hi rend="vertical-align: super">n</hi>ta, | wisuñ’ʞa, | úʇa<hi rend="vertical-align: super">n</hi><hi rend="font-weight: bold">d</hi>e | añʞáxe tá<hi rend="font-weight: bold">d</hi>etsé: |á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú,</p>
+
+<p>   | Káxe-wáhü-sa<hi rend="vertical-align: super">n</hi>’ | awhile longer | my younger brother | attention | we must make | he really said</p>
+
+<p>      | Tsiká!</p>
+
+<p>      | O grandfather!</p>
+
+<p>   | ʇaɥ’pa | ¢iñcĕ’ʇsi | hi’ naci<hi rend="vertical-align: super">n</hi>’: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Circle | to the st. an. ob. | arrived and stood | he really said |O grandfather!</p>
+
+<p>   | Há, | wítsiʞué! | ɔiñ’ʞa | ɔuíʞa | wa¢iñ’ʞa<hi rend="font-weight: bold">d</hi>e, | éʞi añka: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Ho | grandfather! |child | body |they have none | he was saying that | he really said |O grandfather!</p>
+
+<p>   | Wakan’ʇa | uɔañ’ʞe | ts'é | watséqi | <hi rend="font-weight: bold">d</hi>¢i<hi rend="vertical-align: super">n</hi>’ | e¢aú: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Mysterious one | road | to die | difficult | I am | indeed | he really said | O grandfather!</p>
+
+<p>24 | Wakan’ʇa | ʞána | <hi rend="font-weight: bold">d</hi>¢i<hi rend="vertical-align: super">n</hi>-máɔĭ, | éʞiʞíe añká: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Mysterious one | that only |I am I-not | he was saying to him what precedes | he really said |O grandfather!</p>
+
+<p>   | Cŭ<hi rend="vertical-align: super">n</hi>’ŭ<hi rend="vertical-align: super">n</hi>ckíta | úʇa<hi rend="vertical-align: super">n</hi><hi rend="font-weight: bold">d</hi>e¢a¢é tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Awhile longer | you shall attend to it | he really said | O grandfather!</p>
+
+<p>   | Káxe-wáhü-sa<hi rend="vertical-align: super">n</hi>’, | cŭ<hi rend="vertical-align: super">n</hi>ta, | wisuñ’ʞa, | úʇa<hi rend="vertical-align: super">n</hi><hi rend="font-weight: bold">d</hi>e | añʞáxe tá<hi rend="font-weight: bold">d</hi>etsé:</p>
+
+<p>   | Káxe-wáhü-sa<hi rend="vertical-align: super">n</hi>’ | awhile longer | my younger brother | attention | we must make</p>
+
+<p>       | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>       | he really said | O grandfather!</p>
+
+<p>27 | Mikák'ĕ | ha<hi rend="vertical-align: super">n</hi>’<hi rend="font-weight: bold">d</hi>a-ʇa<hi rend="vertical-align: super">n</hi> | ¢iñkcí | é’ʇsi | hi’ naɔi<hi rend="vertical-align: super">n</hi>’: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Star | by day | the st. an. ob. | at it | arrived and stood | he really said |O grandfather!</p>
+
+<p>   | Há, | wítsiʞué! | ɔiñ’ʞa | ɔuíʞa | wa¢iñʞa<hi rend="font-weight: bold">d</hi>e, | éʞi añká: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Ho | grandfather! |child | body |they have none | he was saying that | he really said |O grandfather!</p>
+
+<p>   | Wakan’ʇa | uɔañ’ʞe | ts'é | watséqi | <hi rend="font-weight: bold">d</hi>¢i<hi rend="vertical-align: super">n</hi>’ | e¢aú: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Mysterious one | road | to die | difficult | I am | indeed | he really said | O grandfather!</p>
+
+<p>30 | Wakan’ʇa | ʞána | <hi rend="font-weight: bold">d</hi>¢i<hi rend="vertical-align: super">n</hi>-máɔĭ, | éʞiʞíe añka: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | O mysterious one | that only |I am I-not | he was saying to him what precedes | he really said |O grandfather!</p>
+
+<p>   | Cŭ<hi rend="vertical-align: super">n</hi>’ŭ<hi rend="vertical-align: super">n</hi>ckíta | úʇa<hi rend="vertical-align: super">n</hi><hi rend="font-weight: bold">d</hi>e¢a¢é tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Awhile longer | you shall attend to it | he really said | O grandfather!</p>
+
+<p>   | Káxe-wáhü-sa<hi rend="vertical-align: super">n</hi>’, | cŭ<hi rend="vertical-align: super">n</hi>ta, | wisŭñ’ʞa, | úʇa<hi rend="vertical-align: super">n</hi><hi rend="font-weight: bold">d</hi>e | añʞáxe tá<hi rend="font-weight: bold">d</hi>etsé: |á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú,</p>
+
+<p>   | Káxe-wáhü-sa<hi rend="vertical-align: super">n</hi>’ | awhile longer | my younger brother | attention | we must make | he really said</p>
+
+<p>       | Tsiká!</p>
+
+<p>       | O grandfather!</p>
+
+<p>33 | Waɔiñʞa | cü’ʇse | ¢iñkcĕ’ʇsi | hi’ naɔi<hi rend="vertical-align: super">n</hi>’: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Bird | red| | to the st. an. ob. | arrived and stood | he really said |O grandfather!</p>
+
+<p>   | Há, | iɥʞú! | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Ho | grandmother! | he really said | O grandfather!</p>
+
+<p>   | Ɔiñ’ʞa | ɔuíʞa | wa¢iñʞa<hi rend="font-weight: bold">d</hi>e, | éʞi añka: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Child | body |they have none | he was saying that | he really said |O grandfather!</p>
+
+<p>(Here some lines are wanting. See the other version for the appeal
+to the Red Bird and her reply. )</p>
+
+<p>36 | Ha<hi rend="vertical-align: super">n</hi>’<hi rend="font-weight: bold">d</hi>a | maɔa<hi rend="vertical-align: super">n</hi>’ | u¢áʞ¢i<hi rend="vertical-align: super">n</hi> | ¢iñkcĕ’ʇsi |  hi’ naɔi<hi rend="vertical-align: super">n</hi>’: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Day | land | good | at the st. an. ob. | arrived and stood | he really said | O grandfather!</p>
+
+<p>   | Máxe | úʞawi<hi rend="vertical-align: super">n</hi>’xe | ʇú<hi rend="font-weight: bold">d</hi>a } ¢iñkcé ĕ’ʇsi | a<hi rend="vertical-align: super">n</hi>níɥk`ăci<hi rend="vertical-align: super">n</hi>’ʞa: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Upper world | gyration | four | the cv. in. ob. | there | we were people | he really said | O grandfather!</p>
+
+<pb n="393" /><anchor id="Pg393" />
+
+<p>38 | A<hi rend="vertical-align: super">n</hi>níɥk`ăci<hi rend="vertical-align: super">n</hi>’ʞa | ɔuíʞa | añkíi¢a-<hi rend="font-weight: bold">d</hi>áɔĭ: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | We were people | body | we did not find for ourselves | he really said | O grandfather!</p>
+
+<p>   | Máxe | úʞawi<hi rend="vertical-align: super">n</hi>’xe | wé¢ú<hi rend="vertical-align: super">n</hi><hi rend="font-weight: bold">d</hi>a | ĕ’ʇsi | a<hi rend="vertical-align: super">n</hi>tsi’ naɔi<hi rend="vertical-align: super">n</hi>’: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Upper world | gyration | the second | there | they arrived and stood | he really said | O grandfather!</p>
+
+<p>   | Ĕ’ʇsi | a<hi rend="vertical-align: super">n</hi>níɥk`ăci<hi rend="vertical-align: super">n</hi>ʞa-<hi rend="font-weight: bold">d</hi>áɔĭ: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | There | we were not human beings | he really said | O grandfather!</p>
+
+<p>   | Máxe | úʞawi<hi rend="vertical-align: super">n</hi>’xe | wé¢a<hi rend="font-weight: bold">d</hi>¢i<hi rend="vertical-align: super">n</hi> | ĕ’ʇsi | a<hi rend="vertical-align: super">n</hi>tsi’ naɔi<hi rend="vertical-align: super">n</hi>’: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Upper world | gyration | the third | there | they arrived and stood | he really said | O grandfather!</p>
+
+<p>42 | Ĕ’ʇsi | a<hi rend="vertical-align: super">n</hi>níɥk`ăci<hi rend="vertical-align: super">n</hi>’ʞa-<hi rend="font-weight: bold">d</hi>áɔĭ: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | There | we were not human beings | he really said | O grandfather!</p>
+
+<p>   | Máxe | úʞawi<hi rend="vertical-align: super">n</hi>’xe | wéʇu<hi rend="font-weight: bold">d</hi>a | ĕ’ʇsi | a<hi rend="vertical-align: super">n</hi>tsi’ naɔi<hi rend="vertical-align: super">n</hi>’: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Upper world | gyration | the fourth | there | they arrived and stood | he really said | O grandfather!</p>
+
+<p>   | Ɔa<hi rend="vertical-align: super">n</hi>sa<hi rend="vertical-align: super">n</hi>’ | a<hi rend="vertical-align: super">n</hi>tsi’ naɔi<hi rend="vertical-align: super">n</hi>’: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Sycamore | they came and stood (on) | he really said | O grandfather!</p>
+
+<p>45 | Maɔa<hi rend="vertical-align: super">n</hi>’ | utañ’ʞa | ¢iñkcé | ĕ’ʇsi | a<hi rend="vertical-align: super">n</hi>tsi’ naɔi<hi rend="vertical-align: super">n</hi>’: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Harvest time | the | there | they arrived and stood | he really said | O grandfather!</p>
+
+<p>   | Há, | wísŭñʞaé! | níɥk`ăci<hi rend="vertical-align: super">n</hi>’ʞa | wi<hi rend="vertical-align: super">n</hi>’ | siʞ¢á<hi rend="font-weight: bold">d</hi>e tsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Ho | younger brother! | person | one | has left a trail | he really said | O grandfather!</p>
+
+<p>   | Há, | wíɔi<hi rend="vertical-align: super">n</hi>¢é! | níɥk`ăci<hi rend="vertical-align: super">n</hi>’ʞa | siʞ¢á<hi rend="font-weight: bold">d</hi>e tsé: | éca<hi rend="font-weight: bold">d</hi>i’-na, | níɥk`ăci<hi rend="vertical-align: super">n</hi>’ʞa</p>
+
+<p>   | Ho | elder brother! | person | has left a trail | you have said | person</p>
+
+<p>     |¢íakqá | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>     | this is he | he really said | O grandfather!</p>
+
+<p>48 | Há, | wíɔi<hi rend="vertical-align: super">n</hi>¢é!<note place="foot"><p>Here is where the two roads begin.</p></note> | Hañ’ʞa | ɔiñ’ʞa | <hi rend="font-weight: bold">d</hi>¢i<hi rend="vertical-align: super">n</hi>’ | e¢aú | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Ho | elder brother! | Hañ’ʞa | young | I am | indeed | he really said | O grandfather!</p>
+
+<p>   | Há, | wísŭñʞaé! | níɥk`ăci<hi rend="vertical-align: super">n</hi>’ʞa | wi<hi rend="vertical-align: super">n</hi>’ | siʞ¢á<hi rend="font-weight: bold">d</hi>e tsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Ho | younger brother! | person | one | has left a trail | he really said | O grandfather!</p>
+
+<p>   | Há, | wíɔi<hi rend="vertical-align: super">n</hi>¢é! | níɥk`ăci<hi rend="vertical-align: super">n</hi>’ʞa | siʞ¢á<hi rend="font-weight: bold">d</hi>e tsé: | éca<hi rend="font-weight: bold">d</hi>i’-na, | níɥk`ăci<hi rend="vertical-align: super">n</hi>’ʞa</p>
+
+<p>   | Ho | elder brother! | person | has left a trail | you have said | person</p>
+
+<p>     |¢íakqá | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>     | this is he | he really said | O grandfather!</p>
+
+<p>51 | Há, | wíɔi<hi rend="vertical-align: super">n</hi>¢é! | Waɔáɔe | <hi rend="font-weight: bold">d</hi>¢i<hi rend="vertical-align: super">n</hi>’ | e¢aú | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Ho | elder brother! | Osage | I am | indeed | he really said | O grandfather!</p>
+
+<p>   | Hañ’ʞa | a<hi rend="vertical-align: super">n</hi>níɥk`ăci<hi rend="vertical-align: super">n</hi>’ʞa tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Hañ’ʞa | we shall be people | he really said O grandfather!</p>
+
+<p>   | Níɥk`ăci<hi rend="vertical-align: super">n</hi>’ʞa | ʇ`u<hi rend="font-weight: bold">d</hi>a | siʞ¢á<hi rend="font-weight: bold">d</hi>e tsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | People | some | left a trail | he really said | O grandfather!</p>
+
+<p>54 | Hañ’ʞa | utá¢anʇse tsí | iɥtá<hi rend="font-weight: bold">d</hi>e, | é | e¢aú: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Hañ’ʞa | apart from the rest | lodge | theirs | that | indeed |  he really said | O grandfather!</p>
+
+<p>   | Há, | níɥk`ăci<hi rend="vertical-align: super">n</hi>’ʞa | ʇ`ú<hi rend="font-weight: bold">d</hi>a | tsi’ añká | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Ho | persons | some | have come | he really said | O grandfather!</p>
+
+<p>   | Tsíɔu | Wátsetsi | iʇá<hi rend="font-weight: bold">d</hi>e | tsi’ añká: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Tsíɔu | Wátsetsi | also | have come | he really said | O grandfather!</p>
+
+<p>57 | Ɔiñ’ʞa | uwáqta | e¢éʞi añká: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Child | what is good for them | they decided (?) | he really said | O grandfather!</p>
+
+<pb n="394" /><anchor id="Pg394" />
+
+<p>58 | Ɔiñ’ʞa | ʞíwatañ’ʞa | ma<hi rend="vertical-align: super">n</hi>¢i<hi rend="vertical-align: super">n</hi> tatsé, | e¢éʞi añká: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!
+</p>
+
+<p>   | Child | being chiefs over them | they two shall walk | they decided (?) | he really said | O grandfather!</p>
+
+<p>   | Ɔiñ’ʞa | íts'e ¢iñʞé | ma<hi rend="vertical-align: super">n</hi>¢i<hi rend="vertical-align: super">n</hi> tatsé, | e¢éʞi añká: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Child | without cause of death | they two shall walk | they decided (?) | he really said | O grandfather!</p>
+
+<p>60 | Ɔiñ’ʞa | uʞístu | ĕ’ʇsí ¢iñʞcé tatsé: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Child | assembly | there it shall be | he really said | O grandfather!</p>
+
+<p>   | Ɔiñ’ʞa | uníɥk`ăc<hi rend="vertical-align: super">n</hi>’ʞa | tá<hi rend="font-weight: bold">d</hi>e | maɔa<hi rend="vertical-align: super">n</hi>’ | u¢áʞiʇse tatsé, | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Child | to become men in | in order that | land | you two shall seek you | he really said | O grandfather!</p>
+
+<p>   | Ɔiñ’ʞa | uníɥk`ăc<hi rend="vertical-align: super">n</hi>’ʞa | tá<hi rend="font-weight: bold">d</hi>e-ʇa<hi rend="vertical-align: super">n</hi>’ | maɔa<hi rend="vertical-align: super">n</hi>’ | ĕʇsi ¢iñkcé | ʞáxe añká:</p>
+
+<p>   | Child | to become men in | in order that | land | it is there | they have made</p>
+
+<p>     | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>     | he really said | O grandfather!</p>
+
+<p>63 | Ɔá<hi rend="font-weight: bold">d</hi>e<note place="foot"><p>At this point begins the account of the Female Beaver. She was an ancestor of
+the Osage, according to a statement published in Long's Expedition to the Rocky
+Mountains.</p></note> | mi<hi rend="vertical-align: super">n</hi>’ʞa | ¢é-na | ĕ’ʇsi | ka<hi rend="vertical-align: super">n</hi>’ha | hí ʞ¢i<hi rend="vertical-align: super">n</hi> añká: | á<hi rend="font-weight: bold">d</hi>i<hi rend="vertical-align: super">n</hi>taú, | Tsiká!</p>
+
+<p>   | Beaver | female animal | the mv. an. obs. in the past | there | border | reached and was sitting | he really said | O grandfather!</p>
+
+<p>   | Tsíhe | ɔiñ’ʞa</p>
+
+<p>   | Lodge | small</p>
+
+<p rend="text-align: center"><hi rend="font-style: italic">Translation.</hi></p>
+
+<p>1 "O younger brother! we must see what can be done to make human beings<lb />
+    of the children."<lb />
+   The Black Bear came to them and stood.<lb />
+ 3 He went to the mysterious one of day, saying,<lb />
+   "Ho, grandfather! the children have no bodies."<lb />
+   He replied, "I have an everlasting road (in which I must keep);<lb />
+ 6 I am not the only mysterious one;<lb />
+   You must still seek for help."<lb />
+   (On reporting to the leader, the latter said,)<lb />
+   "O Kaxe-wahü-sa<hi rend="vertical-align: super">n</hi>, my younger brother! we must still see what can be done."<lb />
+ 9 So the Black Bear went to the star "Watse-ʇuʞa, saying,<lb />
+   "Ho, grandfather! the children have no bodies."<lb />
+   He replied, "I have an everlasting road (in which I must keep);<lb />
+12 "I am not the only mysterious one;<lb />
+   "You must still seek for help."<lb />
+   (On reporting to the leader, the latter said),<lb />
+   "O Kaxe-wahü-sa<hi rend="vertical-align: super">n</hi>, my younger brother! we must still see what can be done."<lb />
+15 So the Black Bear went to the Bowl of the Great Dipper, saying,<lb />
+   "O grandfather! the children have no bodies!"<lb />
+   He replied, "I have an everlasting road (in which I must keep);<lb />
+18 "I am not the only mysterious one;<lb />
+   "You must still seek for help."<lb />
+   (On reporting to the leader, the latter said),<lb />
+   "O Kaxe-wahü-sa<hi rend="vertical-align: super">n</hi>, my younger brother! we must still see what can be done."<lb />
+21 Then he went to the Seven Stars, saying,<lb />
+   "Ho, grandfather! the children have no bodies."<lb />
+   He replied, "I have an everlasting road (in which I must keep);<lb />
+24 "I am not the only mysterious one;<lb />
+   "You must still seek for help."<lb />
+<pb n="395" /><anchor id="Pg395" />
+   (On reporting this to the leader, the latter said),<lb />
+26 "O Kaxe-wahü-sa<hi rend="vertical-align: super">n</hi>, my younger brother! we must still see what can be done."<lb />
+   So he went to the Morning Star, saying,<lb />
+   "Ho, grandfather! the children have no bodies."<lb />
+   He replied, "I have an everlasting road (in which I must keep);<lb />
+30 "I am not the only mysterious one;<lb />
+   "You must still seek for help."<lb />
+   (On reporting this to the leader, the latter said),<lb />
+   " O Kaxe-wahü-sa<hi rend="vertical-align: super">n</hi>, my younger brother! we must still see what can be done."<lb />
+33 So he went to the Red Bird, who was sitting (on her nest), saying,<lb />
+   "Ho, grandmother!<lb />
+   The children have no bodies."<lb />
+       *       *       *       *       *<lb />
+36 They went to the good land of day.<lb />
+   In four revolutions or gyrations of the upper worlds, we became human beings.<lb />
+   Though we were human beings, we did not find bodies.<lb />
+39 They arrived at the second revolution of the upper worlds.<lb />
+   There we were not (complete) human beings.<lb />
+   They arrived at the third revolution of the upper worlds.<lb />
+42 There we were not (complete) human beings.<lb />
+   They arrived at the fourth revolution of the upper worlds<lb />
+   They stood on a sycamore tree.<lb />
+45 They stood there at harvest time.<lb />
+   "Ho, younger brother! a man has left a trail."<lb />
+   "Ho, elder brother!" said the Black Bear; "you have said that a man has left a trail.<lb />
+   "This is the man."<lb />
+48 "Ho, elder brother!" (said the stranger) "I am Young Hañʞa."<lb />
+   [Tsiɔu.] "Ho, younger brother! a man has left a trail."<lb />
+   [Black Bear.] "Ho, elder brother! you have said that a man has left a trail.<lb />
+   "This is the man."<lb />
+51 "Ho, elder brother!" (said the stranger) "I am Osage.<lb />
+   "We shall be Hañʞa people."<lb />
+   Some people left a trail.<lb />
+54 Those were the lodges of the Hañʞa uta¢anʇse.<lb />
+   (The Hañʞa uta¢anʇse leader said)<lb />
+   "Ho! some persons have come.<lb />
+   "Tsiɔu and Watsetsi have come."<lb />
+57 They thought of what was good for the children.<lb />
+   They decided that the two should continue as chiefs for the children.<lb />
+   They decided that the two should continue without anything that would be fatal to the children. (And they said)<lb />
+60 "There shall be an assembly of the children.<lb />
+   "You two shall seek a land in which the children may become men."<lb />
+   They two arranged for the location of a land in order that the children might become men in it.<lb />
+63 The Female Beaver, who had been traveling, came to the confines of the village (of the Hañʞa uta¢anʇse?)<lb />
+   (She made?) a small lodge (for herself?).</p>
+
+<p>Good Voice, of the Mi<hi rend="vertical-align: super">n</hi>k'i<hi rend="vertical-align: super">n</hi> gens, knew the history of the Female
+Beaver, but he failed to keep his promise to dictate it to the author.</p>
+</div>
+</div>
+
+<div>
+<index index="toc" />
+<index index="pdf" />
+<pb n="396" /><anchor id="Pg396" />
+<head>CONCLUDING REMARKS.</head>
+
+<p>An Osage said to the author: "We do not believe that our ancestors
+were really animals, birds, &amp;c., as told in the traditions. These
+things are only wa-wi’-ku-ska’-ye [symbols] of something higher."
+On saying this he pointed to the sky.</p>
+
+<p>Apart from such traditions or myths, it is found that even the
+taboos and the names of the gentes, subgentes, phratries, and persons
+are objects of mysterious reverence among many, if not all, of the
+Siouan tribes. Such names are never used in ordinary conversation.
+This is especially the case in tribes where the secret society continues in
+all its power, as among the Osage, the Ponka, and the Kansa. When
+the author was questioning these Indians he was obliged to proceed
+very cautiously in order to obtain information of this character, which
+was not communicated till they learned about his acquaintance with
+some of the myths. When several Dakota delegations visited Washington
+he called on them and had little trouble in learning the names of
+their gentes, their order in the camping circle, &amp;c., provided the interpreters
+were absent. During his visit to the Omaha, from 1878
+to 1880, he did not find them very reticent in furnishing him with
+such information, though he was generally referred to the principal
+chief of each gens as the best authority for the names in his own
+division. But he found it very difficult to induce any of them to
+admit that the gentes had subdivisions, which were probably the
+original gentes. It was not till 1880, and after questioning many,
+that by the merest accident he obtained the clew from the keeper of
+a sacred pipe.</p>
+
+<p>The Iowa, who have these social divisions and personal names of
+mythic significance, also have sacred songs, but these are in the Winnebago
+language. It is probable that they are the property of a
+secret order, as they, too, show how some of the gentes descended as
+birds from the upper world. The names of the Winnebago gentes
+and of some members of the tribe have been recorded by the author,
+who has also learned parts of their traditions. He infers that their
+secret society has not been abolished.</p>
+
+<p>When a man of the Kansa tribe observed that the author had an
+inkling of the matter he related part of the tradition of that tribe,
+explaining the origin of the names and the taboos of several Kansa
+gentes. The ancestors of these gentes were spoken of as birds which
+descended from an upper world. The phratries in that tribe, the
+"Wa-yŭ<hi rend="vertical-align: super">n</hi> mi<hi rend="vertical-align: super">n</hi>-’dŭ<hi rend="vertical-align: super">n</hi>," or "(Those who) sing together," refer to mystic
+songs and strengthen the view that the secret society exists among
+these Indians. Several members of the tribe have positively stated
+its existence.</p>
+
+<p>As one phratry is composed of the two gentes, Large and Small<pb n="397" /><anchor id="Pg397" />
+Hañka, that have the sole right to sing the war songs, time may
+show that these songs, which, with their chart of pictographs<note place="foot"><p>See the author's paper in the American Naturalist for 1885, entitled "Kansas
+mourning and war customs," with which was published part of the chart mentioned
+above.</p></note>, are
+used by the Osage, are substantially those of the seventh degree in
+the Osage society. This is rendered the more probable by the fact
+that the Kansa have grouped their gentes in seven phratries, just
+the number of the degrees in the society. And this arrangement by
+sevens is the rule among Osage, Kansa, Ponka, Omaha, and Dakota,
+though there are apparent exceptions.</p>
+
+<p>Further investigation may tend to confirm the supposition that in
+any tribe which has mythic names for its members and its social divisions
+(as among the Osage, Kansa, Quapaw, Omaha, Ponka, Iowa,
+Oto, Missouri, Tutelo, and Winnebago), or in one which has mythic
+names only for its members and local or other names for its social
+divisions (as among the Dakota, Assiniboin, Mandan, Hidatsa, and
+Crow), there are now or there have been secret societies or "The
+Mysteries."</p>
+</div>
+
+</body>
+
+<back rend="page-break-before: right">
+<div>
+<pgIf output="pdf">
+  <then>
+      <div>
+        <divGen type="footnotes" />
+      </div>
+  </then>
+  <else>
+      <div>
+        <head>Footnotes</head>
+        <divGen type="footnotes" />
+      </div>
+  </else>
+</pgIf>
+</div>
+
+<div rend="page-break-before: right">
+<divGen type="pgfooter" />
+</div>
+
+</back>
+
+    </text>
+</TEI.2>
+
+<!--
+A WORD FROM PROJECT GUTENBERG
+
+
+This file should be named 19464-tei.tei or 19464-tei.zip.
+
+This and all associated files of various formats will be found in:
+
+
+    http://www.gutenberg.org/dirs/1/9/4/6/19464/
+
+
+Updated editions will replace the previous one — the old editions will be
+renamed.
+
+Creating the works from public domain print editions means that no one
+owns a United States copyright in these works, so the Foundation (and
+you!) can copy and distribute it in the United States without permission
+and without paying copyright royalties. Special rules, set forth in the
+General Terms of Use part of this license, apply to copying and
+distributing Project Gutenberg™ electronic works to protect the Project
+Gutenberg™ concept and trademark. Project Gutenberg is a registered
+trademark, and may not be used if you charge for the eBooks, unless you
+receive specific permission. If you do not charge anything for copies of
+this eBook, complying with the rules is very easy. You may use this eBook
+for nearly any purpose such as creation of derivative works, reports,
+performances and research. They may be modified and printed and given away
+— you may do practically _anything_ with public domain eBooks.
+Redistribution is subject to the trademark license, especially commercial
+redistribution.
+
+
+THE FULL PROJECT GUTENBERG LICENSE
+
+
+_Please read this before you distribute or use this work._
+
+To protect the Project Gutenberg™ mission of promoting the free
+distribution of electronic works, by using or distributing this work (or
+any other work associated in any way with the phrase “Project Gutenberg”),
+you agree to comply with all the terms of the Full Project Gutenberg™
+License (available with this file or online at
+http://www.gutenberg.org/license).
+
+
+Section 1.
+
+
+General Terms of Use & Redistributing Project Gutenberg™ electronic works
+
+
+1.A.
+
+
+By reading or using any part of this Project Gutenberg™ electronic work,
+you indicate that you have read, understand, agree to and accept all the
+terms of this license and intellectual property (trademark/copyright)
+agreement. If you do not agree to abide by all the terms of this
+agreement, you must cease using and return or destroy all copies of
+Project Gutenberg™ electronic works in your possession. If you paid a fee
+for obtaining a copy of or access to a Project Gutenberg™ electronic work
+and you do not agree to be bound by the terms of this agreement, you may
+obtain a refund from the person or entity to whom you paid the fee as set
+forth in paragraph 1.E.8.
+
+
+1.B.
+
+
+“Project Gutenberg” is a registered trademark. It may only be used on or
+associated in any way with an electronic work by people who agree to be
+bound by the terms of this agreement. There are a few things that you can
+do with most Project Gutenberg™ electronic works even without complying
+with the full terms of this agreement. See paragraph 1.C below. There are
+a lot of things you can do with Project Gutenberg™ electronic works if you
+follow the terms of this agreement and help preserve free future access to
+Project Gutenberg™ electronic works. See paragraph 1.E below.
+
+
+1.C.
+
+
+The Project Gutenberg Literary Archive Foundation (“the Foundation” or
+PGLAF), owns a compilation copyright in the collection of Project
+Gutenberg™ electronic works. Nearly all the individual works in the
+collection are in the public domain in the United States. If an individual
+work is in the public domain in the United States and you are located in
+the United States, we do not claim a right to prevent you from copying,
+distributing, performing, displaying or creating derivative works based on
+the work as long as all references to Project Gutenberg are removed. Of
+course, we hope that you will support the Project Gutenberg™ mission of
+promoting free access to electronic works by freely sharing Project
+Gutenberg™ works in compliance with the terms of this agreement for
+keeping the Project Gutenberg™ name associated with the work. You can
+easily comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg™ License when you
+share it without charge with others.
+
+This particular work is one of the few copyrighted individual works
+included with the permission of the copyright holder. Information on the
+copyright owner for this particular work and the terms of use imposed by
+the copyright holder on this work are set forth at the beginning of this
+work.
+
+
+1.D.
+
+
+The copyright laws of the place where you are located also govern what you
+can do with this work. Copyright laws in most countries are in a constant
+state of change. If you are outside the United States, check the laws of
+your country in addition to the terms of this agreement before
+downloading, copying, displaying, performing, distributing or creating
+derivative works based on this work or any other Project Gutenberg™ work.
+The Foundation makes no representations concerning the copyright status of
+any work in any country outside the United States.
+
+
+1.E.
+
+
+Unless you have removed all references to Project Gutenberg:
+
+
+1.E.1.
+
+
+The following sentence, with active links to, or other immediate access
+to, the full Project Gutenberg™ License must appear prominently whenever
+any copy of a Project Gutenberg™ work (any work on which the phrase
+“Project Gutenberg” appears, or with which the phrase “Project Gutenberg”
+is associated) is accessed, displayed, performed, viewed, copied or
+distributed:
+
+
+    This eBook is for the use of anyone anywhere at no cost and with
+    almost no restrictions whatsoever. You may copy it, give it away
+    or re-use it under the terms of the Project Gutenberg License
+    included with this eBook or online at http://www.gutenberg.org
+
+
+1.E.2.
+
+
+If an individual Project Gutenberg™ electronic work is derived from the
+public domain (does not contain a notice indicating that it is posted with
+permission of the copyright holder), the work can be copied and
+distributed to anyone in the United States without paying any fees or
+charges. If you are redistributing or providing access to a work with the
+phrase “Project Gutenberg” associated with or appearing on the work, you
+must comply either with the requirements of paragraphs 1.E.1 through 1.E.7
+or obtain permission for the use of the work and the Project Gutenberg™
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+
+1.E.3.
+
+
+If an individual Project Gutenberg™ electronic work is posted with the
+permission of the copyright holder, your use and distribution must comply
+with both paragraphs 1.E.1 through 1.E.7 and any additional terms imposed
+by the copyright holder. Additional terms will be linked to the Project
+Gutenberg™ License for all works posted with the permission of the
+copyright holder found at the beginning of this work.
+
+
+1.E.4.
+
+
+Do not unlink or detach or remove the full Project Gutenberg™ License
+terms from this work, or any files containing a part of this work or any
+other work associated with Project Gutenberg™.
+
+
+1.E.5.
+
+
+Do not copy, display, perform, distribute or redistribute this electronic
+work, or any part of this electronic work, without prominently displaying
+the sentence set forth in paragraph 1.E.1 with active links or immediate
+access to the full terms of the Project Gutenberg™ License.
+
+
+1.E.6.
+
+
+You may convert to and distribute this work in any binary, compressed,
+marked up, nonproprietary or proprietary form, including any word
+processing or hypertext form. However, if you provide access to or
+distribute copies of a Project Gutenberg™ work in a format other than
+“Plain Vanilla ASCII” or other format used in the official version posted
+on the official Project Gutenberg™ web site (http://www.gutenberg.org),
+you must, at no additional cost, fee or expense to the user, provide a
+copy, a means of exporting a copy, or a means of obtaining a copy upon
+request, of the work in its original “Plain Vanilla ASCII” or other form.
+Any alternate format must include the full Project Gutenberg™ License as
+specified in paragraph 1.E.1.
+
+
+1.E.7.
+
+
+Do not charge a fee for access to, viewing, displaying, performing,
+copying or distributing any Project Gutenberg™ works unless you comply
+with paragraph 1.E.8 or 1.E.9.
+
+
+1.E.8.
+
+
+You may charge a reasonable fee for copies of or providing access to or
+distributing Project Gutenberg™ electronic works provided that
+
+    - You pay a royalty fee of 20% of the gross profits you derive from
+      the use of Project Gutenberg™ works calculated using the method you
+      already use to calculate your applicable taxes. The fee is owed to
+      the owner of the Project Gutenberg™ trademark, but he has agreed to
+      donate royalties under this paragraph to the Project Gutenberg
+      Literary Archive Foundation. Royalty payments must be paid within 60
+      days following each date on which you prepare (or are legally
+      required to prepare) your periodic tax returns. Royalty payments
+      should be clearly marked as such and sent to the Project Gutenberg
+      Literary Archive Foundation at the address specified in Section 4,
+      “Information about donations to the Project Gutenberg Literary
+      Archive Foundation.”
+
+    - You provide a full refund of any money paid by a user who notifies
+      you in writing (or by e-mail) within 30 days of receipt that s/he
+      does not agree to the terms of the full Project Gutenberg™ License.
+      You must require such a user to return or destroy all copies of the
+      works possessed in a physical medium and discontinue all use of and
+      all access to other copies of Project Gutenberg™ works.
+
+    - You provide, in accordance with paragraph 1.F.3, a full refund of
+      any money paid for a work or a replacement copy, if a defect in the
+      electronic work is discovered and reported to you within 90 days of
+      receipt of the work.
+
+    - You comply with all other terms of this agreement for free
+      distribution of Project Gutenberg™ works.
+
+
+1.E.9.
+
+
+If you wish to charge a fee or distribute a Project Gutenberg™ electronic
+work or group of works on different terms than are set forth in this
+agreement, you must obtain permission in writing from both the Project
+Gutenberg Literary Archive Foundation and Michael Hart, the owner of the
+Project Gutenberg™ trademark. Contact the Foundation as set forth in
+Section 3 below.
+
+
+1.F.
+
+
+1.F.1.
+
+
+Project Gutenberg volunteers and employees expend considerable effort to
+identify, do copyright research on, transcribe and proofread public domain
+works in creating the Project Gutenberg™ collection. Despite these
+efforts, Project Gutenberg™ electronic works, and the medium on which they
+may be stored, may contain “Defects,” such as, but not limited to,
+incomplete, inaccurate or corrupt data, transcription errors, a copyright
+or other intellectual property infringement, a defective or damaged disk
+or other medium, a computer virus, or computer codes that damage or cannot
+be read by your equipment.
+
+
+1.F.2.
+
+
+LIMITED WARRANTY, DISCLAIMER OF DAMAGES — Except for the “Right of
+Replacement or Refund” described in paragraph 1.F.3, the Project Gutenberg
+Literary Archive Foundation, the owner of the Project Gutenberg™
+trademark, and any other party distributing a Project Gutenberg™
+electronic work under this agreement, disclaim all liability to you for
+damages, costs and expenses, including legal fees. YOU AGREE THAT YOU HAVE
+NO REMEDIES FOR NEGLIGENCE, STRICT LIABILITY, BREACH OF WARRANTY OR BREACH
+OF CONTRACT EXCEPT THOSE PROVIDED IN PARAGRAPH F3. YOU AGREE THAT THE
+FOUNDATION, THE TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT
+WILL NOT BE LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL,
+PUNITIVE OR INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY
+OF SUCH DAMAGE.
+
+
+1.F.3.
+
+
+LIMITED RIGHT OF REPLACEMENT OR REFUND — If you discover a defect in this
+electronic work within 90 days of receiving it, you can receive a refund
+of the money (if any) you paid for it by sending a written explanation to
+the person you received the work from. If you received the work on a
+physical medium, you must return the medium with your written explanation.
+The person or entity that provided you with the defective work may elect
+to provide a replacement copy in lieu of a refund. If you received the
+work electronically, the person or entity providing it to you may choose
+to give you a second opportunity to receive the work electronically in
+lieu of a refund. If the second copy is also defective, you may demand a
+refund in writing without further opportunities to fix the problem.
+
+
+1.F.4.
+
+
+Except for the limited right of replacement or refund set forth in
+paragraph 1.F.3, this work is provided to you ’AS-IS,’ WITH NO OTHER
+WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO
+WARRANTIES OF MERCHANTIBILITY OR FITNESS FOR ANY PURPOSE.
+
+
+1.F.5.
+
+
+Some states do not allow disclaimers of certain implied warranties or the
+exclusion or limitation of certain types of damages. If any disclaimer or
+limitation set forth in this agreement violates the law of the state
+applicable to this agreement, the agreement shall be interpreted to make
+the maximum disclaimer or limitation permitted by the applicable state
+law. The invalidity or unenforceability of any provision of this agreement
+shall not void the remaining provisions.
+
+
+1.F.6.
+
+
+INDEMNITY — You agree to indemnify and hold the Foundation, the trademark
+owner, any agent or employee of the Foundation, anyone providing copies of
+Project Gutenberg™ electronic works in accordance with this agreement, and
+any volunteers associated with the production, promotion and distribution
+of Project Gutenberg™ electronic works, harmless from all liability, costs
+and expenses, including legal fees, that arise directly or indirectly from
+any of the following which you do or cause to occur: (a) distribution of
+this or any Project Gutenberg™ work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg™ work, and (c) any Defect
+you cause.
+
+
+Section  2.
+
+
+           Information about the Mission of Project Gutenberg™
+
+
+Project Gutenberg™ is synonymous with the free distribution of electronic
+works in formats readable by the widest variety of computers including
+obsolete, old, middle-aged and new computers. It exists because of the
+efforts of hundreds of volunteers and donations from people in all walks
+of life.
+
+Volunteers and financial support to provide volunteers with the assistance
+they need, is critical to reaching Project Gutenberg™’s goals and ensuring
+that the Project Gutenberg™ collection will remain freely available for
+generations to come. In 2001, the Project Gutenberg Literary Archive
+Foundation was created to provide a secure and permanent future for
+Project Gutenberg™ and future generations. To learn more about the Project
+Gutenberg Literary Archive Foundation and how your efforts and donations
+can help, see Sections 3 and 4 and the Foundation web page at
+http://www.pglaf.org.
+
+
+Section 3.
+
+
+   Information about the Project Gutenberg Literary Archive Foundation
+
+
+The Project Gutenberg Literary Archive Foundation is a non profit
+501(c)(3) educational corporation organized under the laws of the state of
+Mississippi and granted tax exempt status by the Internal Revenue Service.
+The Foundation’s EIN or federal tax identification number is 64-6221541.
+Its 501(c)(3) letter is posted at
+http://www.gutenberg.org/fundraising/pglaf. Contributions to the Project
+Gutenberg Literary Archive Foundation are tax deductible to the full
+extent permitted by U.S. federal laws and your state’s laws.
+
+The Foundation’s principal office is located at 4557 Melan Dr.
+S. Fairbanks, AK, 99712., but its volunteers and employees are scattered
+throughout numerous locations. Its business office is located at 809 North
+1500 West, Salt Lake City, UT 84116, (801) 596-1887, email
+business@pglaf.org. Email contact links and up to date contact information
+can be found at the Foundation’s web site and official page at
+http://www.pglaf.org
+
+For additional contact information:
+
+
+    Dr. Gregory B. Newby
+    Chief Executive and Director
+    gbnewby@pglaf.org
+
+
+Section 4.
+
+
+  Information about Donations to the Project Gutenberg Literary Archive
+                                Foundation
+
+
+Project Gutenberg™ depends upon and cannot survive without wide spread
+public support and donations to carry out its mission of increasing the
+number of public domain and licensed works that can be freely distributed
+in machine readable form accessible by the widest array of equipment
+including outdated equipment. Many small donations ($1 to $5,000) are
+particularly important to maintaining tax exempt status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United States.
+Compliance requirements are not uniform and it takes a considerable
+effort, much paperwork and many fees to meet and keep up with these
+requirements. We do not solicit donations in locations where we have not
+received written confirmation of compliance. To SEND DONATIONS or
+determine the status of compliance for any particular state visit
+http://www.gutenberg.org/fundraising/donate
+
+While we cannot and do not solicit contributions from states where we have
+not met the solicitation requirements, we know of no prohibition against
+accepting unsolicited donations from donors in such states who approach us
+with offers to donate.
+
+International donations are gratefully accepted, but we cannot make any
+statements concerning tax treatment of donations received from outside the
+United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg Web pages for current donation methods
+and addresses. Donations are accepted in a number of other ways including
+checks, online payments and credit card donations. To donate, please
+visit: http://www.gutenberg.org/fundraising/donate
+
+
+Section 5.
+
+
+      General Information About Project Gutenberg™ electronic works.
+
+
+Professor Michael S. Hart is the originator of the Project Gutenberg™
+concept of a library of electronic works that could be freely shared with
+anyone. For thirty years, he produced and distributed Project Gutenberg™
+eBooks with only a loose network of volunteer support.
+
+Project Gutenberg™ eBooks are often created from several printed editions,
+all of which are confirmed as Public Domain in the U.S. unless a copyright
+notice is included. Thus, we do not necessarily keep eBooks in compliance
+with any particular paper edition.
+
+Each eBook is in a subdirectory of the same number as the eBook’s eBook
+number, often in several formats including plain vanilla ASCII, compressed
+(zipped), HTML and others.
+
+Corrected _editions_ of our eBooks replace the old file and take over the
+old filename and etext number. The replaced older file is renamed.
+_Versions_ based on separate sources are treated as new eBooks receiving
+new filenames and etext numbers.
+
+Most people start at our Web site which has the main PG search facility:
+
+
+    http://www.gutenberg.org
+
+
+This Web site includes information about Project Gutenberg™, including how
+to make donations to the Project Gutenberg Literary Archive Foundation,
+how to help produce our new eBooks, and how to subscribe to our email
+newsletter to hear about new eBooks.
+-->
