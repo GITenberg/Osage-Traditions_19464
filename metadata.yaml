@@ -1,0 +1,28 @@
+_repo: Osage-Traditions_19464
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Dorsey, James Owen
+    alias: Dorsey, J. Owen (James Owen)
+    birthdate: 1848
+    deathdate: 1895
+    gutenberg_agent_id: '7103'
+    url: http://www.gutenberg.org/2009/agents/7103
+description: ''
+gutenberg_issued: '2006-10-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '19464'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Osage language -- Texts'
+- !lcsh 'Osage Indians -- Folklore'
+- !lcc 'E011'
+title: Osage Traditions
+url: http://www.gutenberg.org/ebooks/19464
